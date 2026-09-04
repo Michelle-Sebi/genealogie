@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tinta: #1b2a4a;
+  --color-tinta-suave: #3d4a66;
+  --color-papel: #ede6d6;
+  --color-papel-claro: #f5f0e4;
+  --color-papel-hondo: #ddd3bd;
+  --color-verde: #3d5a45;
+  --color-oxido: #8b3a2e;
+
+  --font-titular: var(--font-fraunces), Georgia, serif;
+  --font-maquina: var(--font-elite), "Courier New", monospace;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-papel);
+  color: var(--color-tinta);
+  /* Textura de papel: grano sutil, sin imágenes externas */
+  background-image:
+    radial-gradient(
+      circle at 50% 0%,
+      rgba(255, 255, 255, 0.55),
+      transparent 60%
+    ),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='0.055'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+}
+
+/* Foco de teclado siempre visible */
+:focus-visible {
+  outline: 2px solid var(--color-oxido);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+@utility hoja {
+  background-color: color-mix(in srgb, var(--color-papel-claro) 88%, transparent);
+  border: 1px solid color-mix(in srgb, var(--color-tinta) 14%, transparent);
+  box-shadow:
+    0 1px 0 color-mix(in srgb, #fff 60%, transparent) inset,
+    0 10px 30px -20px color-mix(in srgb, var(--color-tinta) 60%, transparent);
+}
+
+@utility dato {
+  font-family: var(--font-maquina);
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}

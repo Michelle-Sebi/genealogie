@@ -1,0 +1,426 @@
+{
+  "_comentario": "Disposición del árbol gráfico. fila = altura (0 arriba), col = posición horizontal. Se coloca a mano. Cuatro decisiones: (1) Joseph abre la fila de hermanos, para que la línea principal caiga a la izquierda; (2) Achir va entre sus dos esposas, con un hueco ancho entre Ana y los hijos del segundo matrimonio; (3) los Güez van en una banda intermedia, encima de Lydia, para que ella quede junto a su marido y Lucie junto a sus dos maridos; (4) quien no tiene pareja va más apretado que los matrimonios, que necesitan sitio para dos cajas.",
+  "nodos": {
+    "g-primera-esposa": {
+      "fila": 0,
+      "col": 0.0
+    },
+    "achir-sebi": {
+      "fila": 0,
+      "col": 1.3792
+    },
+    "zmirda-zarade": {
+      "fila": 0,
+      "col": 2.6933
+    },
+    "abraham-guez": {
+      "fila": 0.5,
+      "col": 3.3022
+    },
+    "lucie-guez": {
+      "fila": 0.5,
+      "col": 4.5775
+    },
+    "ana-ucrania": {
+      "fila": 1,
+      "col": 0.6896
+    },
+    "joseph-sebi": {
+      "fila": 1,
+      "col": 2.8112
+    },
+    "lydia-guez": {
+      "fila": 1,
+      "col": 3.9561
+    },
+    "zaina-sebi": {
+      "fila": 1,
+      "col": 5.15
+    },
+    "jacob-sebi": {
+      "fila": 1,
+      "col": 6.2174
+    },
+    "g-kouka": {
+      "fila": 1,
+      "col": 7.4927
+    },
+    "esther-sebi": {
+      "fila": 1,
+      "col": 8.7556
+    },
+    "sarah-sebi": {
+      "fila": 1,
+      "col": 9.8556
+    },
+    "marie-sebi": {
+      "fila": 1,
+      "col": 10.923
+    },
+    "anna-sebi": {
+      "fila": 1,
+      "col": 12.1183
+    },
+    "gabriel-sebi": {
+      "fila": 1,
+      "col": 13.3787
+    },
+    "georges-sebi": {
+      "fila": 2,
+      "col": 6.8551
+    },
+    "jacqueline-sebi": {
+      "fila": 3,
+      "col": 0.5
+    },
+    "georges-tibi": {
+      "fila": 3,
+      "col": 1.6775
+    },
+    "bernard-sebi": {
+      "fila": 3,
+      "col": 11.6
+    },
+    "lucette-sebi": {
+      "fila": 3,
+      "col": 2.7708
+    },
+    "andre": {
+      "fila": 3,
+      "col": 3.8045
+    },
+    "mounette-sebi": {
+      "fila": 3,
+      "col": 4.8
+    },
+    "max": {
+      "fila": 3,
+      "col": 5.8404
+    },
+    "patoche-sebi": {
+      "fila": 3,
+      "col": 6.8292
+    },
+    "alain": {
+      "fila": 3,
+      "col": 7.8629
+    },
+    "eric-sebi": {
+      "fila": 3,
+      "col": 8.9
+    },
+    "maria-josefa-saura": {
+      "fila": 3,
+      "col": 10.1427
+    },
+    "frederique": {
+      "fila": 4,
+      "col": 0.0494
+    },
+    "pierre": {
+      "fila": 4,
+      "col": 1.0888
+    },
+    "josephe": {
+      "fila": 4,
+      "col": 2.1281
+    },
+    "jean": {
+      "fila": 4,
+      "col": 3.2877
+    },
+    "anne-france": {
+      "fila": 4,
+      "col": 5.3202
+    },
+    "christophe": {
+      "fila": 4,
+      "col": 6.4202
+    },
+    "liliane": {
+      "fila": 4,
+      "col": 7.4932
+    },
+    "karine": {
+      "fila": 4,
+      "col": 8.5045
+    },
+    "samuel": {
+      "fila": 4,
+      "col": 9.5382
+    },
+    "paul-sebi": {
+      "fila": 4,
+      "col": 10.6427
+    },
+    "mireia-V.": {
+      "fila": 4,
+      "col": 11.8528
+    },
+    "michelle-sebi": {
+      "fila": 4,
+      "col": 13.0618
+    },
+    "rafa-S.": {
+      "fila": 4,
+      "col": 14.2393
+    },
+    "nathan": {
+      "fila": 5,
+      "col": 6.9567
+    },
+    "alix": {
+      "fila": 5,
+      "col": 9.0213
+    },
+    "arnau": {
+      "fila": 5,
+      "col": 10.7478
+    },
+    "marta": {
+      "fila": 5,
+      "col": 11.7478
+    },
+    "elia": {
+      "fila": 5,
+      "col": 13.6506
+    }
+  },
+  "fantasmas": [
+    {
+      "id": "g-primera-esposa",
+      "nombre": {
+        "es": "1ª esposa",
+        "fr": "1re épouse"
+      },
+      "anos": {
+        "es": "Rusia, ✝ antes de 1885",
+        "fr": "Russie, ✝ avant 1885"
+      }
+    },
+    {
+      "id": "g-kouka",
+      "nombre": {
+        "es": "Kouka Thettoune",
+        "fr": "Kouka Thettoune"
+      },
+      "anos": {
+        "es": "1891 – ?",
+        "fr": "1891 – ?"
+      }
+    }
+  ],
+  "uniones": [
+    {
+      "id": "achir-1",
+      "a": "g-primera-esposa",
+      "b": "achir-sebi",
+      "hijos": [
+        "ana-ucrania"
+      ]
+    },
+    {
+      "id": "achir-zmirda",
+      "a": "achir-sebi",
+      "b": "zmirda-zarade",
+      "ano": "1886",
+      "hijos": [
+        "zaina-sebi",
+        "jacob-sebi",
+        "esther-sebi",
+        "sarah-sebi",
+        "joseph-sebi",
+        "marie-sebi",
+        "anna-sebi",
+        "gabriel-sebi"
+      ],
+      "carril": 140
+    },
+    {
+      "id": "jacob-kouka",
+      "a": "jacob-sebi",
+      "b": "g-kouka",
+      "ano": "1914",
+      "hijos": [
+        "georges-sebi"
+      ]
+    },
+    {
+      "id": "abraham-lucie",
+      "a": "abraham-guez",
+      "b": "lucie-guez",
+      "hijos": [
+        "lydia-guez"
+      ]
+    },
+    {
+      "id": "jacob-lucie",
+      "a": "jacob-sebi",
+      "b": "lucie-guez",
+      "ano": "1922",
+      "segunda": true,
+      "hijos": []
+    },
+    {
+      "id": "joseph-lydia",
+      "a": "joseph-sebi",
+      "b": "lydia-guez",
+      "ano": "1930",
+      "hijos": [
+        "jacqueline-sebi",
+        "bernard-sebi",
+        "lucette-sebi",
+        "mounette-sebi",
+        "patoche-sebi",
+        "eric-sebi"
+      ]
+    },
+    {
+      "id": "eric-mj",
+      "a": "eric-sebi",
+      "b": "maria-josefa-saura",
+      "ano": "1973",
+      "hijos": [
+        "paul-sebi",
+        "michelle-sebi"
+      ]
+    },
+    {
+      "id": "patricia",
+      "a": "patoche-sebi",
+      "hijos": [
+        "liliane",
+        "karine"
+      ],
+      "b": "alain"
+    },
+    {
+      "id": "liliane-nathan",
+      "a": "liliane",
+      "hijos": [
+        "nathan"
+      ],
+      "b": "christophe",
+      "separada": true,
+      "izq": "christophe"
+    },
+    {
+      "id": "karine-samuel",
+      "a": "karine",
+      "b": "samuel",
+      "hijos": [
+        "alix"
+      ]
+    },
+    {
+      "id": "paul-mireia",
+      "a": "paul-sebi",
+      "b": "mireia-V.",
+      "hijos": [
+        "arnau",
+        "marta"
+      ]
+    },
+    {
+      "id": "michelle-rafa",
+      "a": "michelle-sebi",
+      "b": "rafa-S.",
+      "ano": "2015",
+      "hijos": [
+        "elia"
+      ]
+    },
+    {
+      "id": "nono-tibi",
+      "a": "jacqueline-sebi",
+      "b": "georges-tibi",
+      "hijos": [
+        "frederique",
+        "pierre",
+        "josephe"
+      ]
+    },
+    {
+      "id": "lulue-andre",
+      "a": "lucette-sebi",
+      "b": "andre",
+      "hijos": [
+        "jean"
+      ]
+    },
+    {
+      "id": "mounette-max",
+      "a": "mounette-sebi",
+      "b": "max",
+      "hijos": [
+        "anne-france"
+      ]
+    }
+  ],
+  "nombresCortos": {
+    "achir-sebi": "Achir Sebi",
+    "zmirda-zarade": "Zmirda Zarade",
+    "lydia-guez": "Lydie Güez",
+    "maria-josefa-saura": "Mª Josefa Saura",
+    "paul-sebi": "Paul E. Sebi",
+    "michelle-sebi": "Michelle Sebi",
+    "eric-sebi": "Eric Sebi",
+    "jacqueline-sebi": "Jacqueline",
+    "patoche-sebi": "Patricia",
+    "mounette-sebi": "Murrielle",
+    "lucette-sebi": "Lucette",
+    "bernard-sebi": "Bernard",
+    "abraham-guez": "Abraham Güez",
+    "lucie-guez": "Semha «Lucie»",
+    "anna-sebi": "Anna Sebi",
+    "g-kouka": "Kouka Thettoune",
+    "g-primera-esposa": "1ª esposa",
+    "mireia-V.": "Mireia V.",
+    "rafa-S.": "Rafa S.",
+    "arnau": "Arnau",
+    "marta": "Marta",
+    "elia": "Elia",
+    "nathan": "Nathan",
+    "alix": "Alix",
+    "liliane": "Liliane",
+    "karine": "Karine",
+    "samuel": "Samuel",
+    "alain": "Alain",
+    "christophe": "Christophe",
+    "georges-tibi": "Georges Tibi",
+    "frederique": "Frédérique",
+    "pierre": "Pierre",
+    "josephe": "Josephe",
+    "andre": "André",
+    "jean": "Jean",
+    "max": "Max",
+    "anne-france": "Anne-France",
+    "gabriel-sebi": "Gabriel Sebi"
+  },
+  "generaciones": [
+    {
+      "fila": 0,
+      "anos": "≈1850–1871"
+    },
+    {
+      "fila": 1,
+      "anos": "1887–1912"
+    },
+    {
+      "fila": 2,
+      "anos": "1914"
+    },
+    {
+      "fila": 3,
+      "anos": "1931–1951"
+    },
+    {
+      "fila": 4,
+      "anos": "≈1955–1983"
+    },
+    {
+      "fila": 5,
+      "anos": "2009–2018"
+    }
+  ]
+}

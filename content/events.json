@@ -1,0 +1,642 @@
+[
+  {
+    "id": "pogromos-1881",
+    "year": 1881,
+    "dateLabel": {
+      "es": "13 de marzo de 1881",
+      "fr": "13 mars 1881"
+    },
+    "title": {
+      "es": "Asesinato del zar y comienzo de los pogromos",
+      "fr": "Assassinat du tsar et début des pogroms"
+    },
+    "location": {
+      "es": "Imperio Ruso",
+      "fr": "Empire russe"
+    },
+    "key": true,
+    "description": {
+      "es": "El zar Alejandro II es asesinado por anarquistas; entre ellos hay varios judíos. A raíz del atentado comienzan los pogromos. Tsvi Reykin, viudo y con una hija pequeña, decide emigrar y deja a la niña al cuidado de su cuñada. El destino del viaje es Jerusalén.",
+      "fr": "Le tsar Alexandre II est assassiné par des anarchistes ; il y a parmi eux plusieurs juifs. À la suite de l'attentat commencent les pogroms. Tsvi Reykin, veuf et père d'une petite fille, décide d'émigrer et laisse l'enfant aux soins de sa belle-sœur. Le but du voyage est Jérusalem."
+    }
+  },
+  {
+    "id": "llegada-1885",
+    "year": 1885,
+    "title": {
+      "es": "Llegada a Argelia",
+      "fr": "Arrivée en Algérie"
+    },
+    "location": {
+      "es": "Argelia",
+      "fr": "Algérie"
+    },
+    "key": true,
+    "description": {
+      "es": "Enferma de disentería durante la travesía. La norma obligaba al capitán a desembarcar a los enfermos en el primer puerto disponible, y así llega a Argelia: sin dinero, enfermo, sin hablar francés y con un oficio, corredor de granos, sin salida allí.",
+      "fr": "Il tombe malade de dysenterie pendant la traversée. La règle obligeait le commandant à débarquer les malades dans le premier port venu : il arrive ainsi en Algérie, sans argent, malade, sans parler français, et avec un métier — courtier en grains — sans débouché sur place."
+    }
+  },
+  {
+    "id": "notoriedad-1886",
+    "year": 1886,
+    "dateLabel": {
+      "es": "21 de mayo de 1886",
+      "fr": "21 mai 1886"
+    },
+    "title": {
+      "es": "Acta de notoriedad en Guelma",
+      "fr": "Acte de notoriété à Guelma"
+    },
+    "location": {
+      "es": "Guelma",
+      "fr": "Guelma"
+    },
+    "documented": true,
+    "key": true,
+    "description": {
+      "es": "Unos testigos declaran ante notario quién es y dónde nació, y el Tribunal de primera instancia homologa el acta. Es el instrumento al que se recurre cuando no existe partida de nacimiento. Declara haber nacido en Jerusalén, hijo de padres fallecidos y enterrados allí.",
+      "fr": "Des témoins déclarent devant notaire qui il est et où il est né, et le Tribunal de première instance homologue l'acte. C'est l'instrument auquel on recourt quand il n'existe pas d'acte de naissance. Il déclare être né à Jérusalem, fils de parents décédés et enterrés là-bas."
+    }
+  },
+  {
+    "id": "boda-1886",
+    "year": 1886,
+    "dateLabel": {
+      "es": "18 de agosto de 1886",
+      "fr": "18 août 1886"
+    },
+    "title": {
+      "es": "Boda en Guelma",
+      "fr": "Mariage à Guelma"
+    },
+    "location": {
+      "es": "Guelma",
+      "fr": "Guelma"
+    },
+    "documented": true,
+    "description": {
+      "es": "Se casa a las siete y media de la mañana con Zmirda Zarade, de quince años. Ella y su madre declaran no saber firmar. Los cuatro testigos son un sastre y tres joyeros de la ciudad.",
+      "fr": "Il épouse à sept heures et demie du matin Zmirda Zarade, quinze ans. Elle et sa mère déclarent ne savoir signer. Les quatre témoins sont un tailleur et trois bijoutiers de la ville."
+    }
+  },
+  {
+    "id": "joseph-1897",
+    "year": 1897,
+    "dateLabel": {
+      "es": "14 de enero de 1897",
+      "fr": "14 janvier 1897"
+    },
+    "title": {
+      "es": "Nacimiento de Joseph",
+      "fr": "Naissance de Joseph"
+    },
+    "location": {
+      "es": "Rue Mogador, Guelma",
+      "fr": "Rue Mogador, Guelma"
+    },
+    "documented": true,
+    "key": true,
+    "description": {
+      "es": "En la rue Mogador, en una habitación sin electricidad ni agua corriente, con el retrete en el patio.",
+      "fr": "Rue Mogador, dans une pièce sans électricité ni eau courante, les w.-c. dans la cour."
+    }
+  },
+  {
+    "id": "trabajo-1909",
+    "year": 1909,
+    "title": {
+      "es": "Joseph empieza a trabajar, a los doce años",
+      "fr": "Joseph commence à travailler, à douze ans"
+    },
+    "location": {
+      "es": "Guelma",
+      "fr": "Guelma"
+    },
+    "documented": true,
+    "description": {
+      "es": "Vende hilo, agujas y botones por los pueblos vecinos con una carretilla. Se conserva su cartilla oficial de trabajo infantil, impresa en Bône ese mismo año.",
+      "fr": "Il vend du fil, des aiguilles et des boutons dans les villages voisins avec une brouette. Son livret officiel de travail des enfants, imprimé à Bône la même année, est conservé."
+    }
+  },
+  {
+    "id": "boda-1914",
+    "year": 1914,
+    "dateLabel": {
+      "es": "28 de enero de 1914",
+      "fr": "28 janvier 1914"
+    },
+    "title": {
+      "es": "El acta que confirma al rabino",
+      "fr": "L'acte qui confirme le rabbin"
+    },
+    "location": {
+      "es": "Souk-Ahras",
+      "fr": "Souk-Ahras"
+    },
+    "documented": true,
+    "description": {
+      "es": "Jacob se casa con Kouka Thettoune. El acta designa a su padre como «Achir Sebi, rabbin»: es la confirmación oficial de lo que la familia contaba. Achir y Zmirda vienen desde Guelma a la boda.",
+      "fr": "Jacob épouse Kouka Thettoune. L'acte désigne son père comme « Achir Sebi, rabbin » : c'est la confirmation officielle de ce que racontait la famille. Achir et Zmirda viennent de Guelma pour le mariage."
+    }
+  },
+  {
+    "id": "guez-1922",
+    "year": 1922,
+    "dateLabel": {
+      "es": "27 de febrero de 1922",
+      "fr": "27 février 1922"
+    },
+    "title": {
+      "es": "Lucie se casa por segunda vez",
+      "fr": "Lucie se remarie"
+    },
+    "location": {
+      "es": "Bône",
+      "fr": "Bône"
+    },
+    "documented": true,
+    "description": {
+      "es": "Se casa con Jacques Sebi en régimen de comunidad de bienes, un detalle que cincuenta años después decidirá una herencia. Trae dos hijos de su primer matrimonio: Bernard Benjamin, de doce años, y Lydia, de diez. Su primer marido, Abraham Güez, no había muerto: viviría hasta 1963. En la familia siempre se ha dicho que las abandonó.",
+      "fr": "Elle épouse Jacques Sebi sous le régime de la communauté, un détail qui cinquante ans plus tard décidera d'un héritage. Elle amène deux enfants de son premier mariage : Bernard Benjamin, douze ans, et Lydia, dix ans. Son premier mari, Abraham Güez, n'était pas mort : il vivrait jusqu'en 1963. On a toujours dit dans la famille qu'il les avait abandonnées."
+    }
+  },
+  {
+    "id": "casa-1928",
+    "year": 1928,
+    "title": {
+      "es": "Compran la antigua oficina de correos y construyen la casa",
+      "fr": "Achat de l’ancien bureau de poste et construction de la maison"
+    },
+    "location": {
+      "es": "Souk-Ahras",
+      "fr": "Souk-Ahras"
+    },
+    "key": true,
+    "description": {
+      "es": "La ciudad ha crecido y la oficina de correos se ha quedado pequeña. Joseph y su hermano Jacques la compran, la derriban y levantan allí su casa: la primera de hormigón armado de Souk-Ahras. Jacques y Lucie ocupan el primer piso y Joseph el segundo.",
+      "fr": "La ville a grandi et le bureau de poste est devenu trop petit. Joseph et son frère Jacques l'achètent, le démolissent et construisent là leur maison : la première en ciment armé de Souk-Ahras. Jacques et Lucie occupent le premier étage, Joseph le second."
+    }
+  },
+  {
+    "id": "boda-1930",
+    "year": 1930,
+    "dateLabel": {
+      "es": "Lunes 24 de marzo de 1930",
+      "fr": "Lundi 24 mars 1930"
+    },
+    "title": {
+      "es": "Joseph y Lydia",
+      "fr": "Joseph et Lydia"
+    },
+    "location": {
+      "es": "Souk-Ahras",
+      "fr": "Souk-Ahras"
+    },
+    "documented": true,
+    "description": {
+      "es": "La fotografía es del estudio de J. Mikaleff, un maltés de Souk-Ahras.",
+      "fr": "La photographie vient du studio de J. Mikaleff, un Maltais de Souk-Ahras."
+    }
+  },
+  {
+    "id": "bernard-1940",
+    "year": 1940,
+    "title": {
+      "es": "Viaje a Francia y muerte de Bernard",
+      "fr": "Voyage en France et mort de Bernard"
+    },
+    "location": {
+      "es": "Francia",
+      "fr": "France"
+    },
+    "key": true,
+    "description": {
+      "es": "Bernard tiene leucemia y los médicos indican que en Francia hay quien puede tratarle. La familia viaja allí y les sorprende el comienzo de la guerra; consiguen regresar a Souk-Ahras. Bernard muere ese mismo año, a los ocho.",
+      "fr": "Bernard a une leucémie et les médecins indiquent qu'en France quelqu'un peut le soigner. La famille s'y rend et le début de la guerre les y surprend ; ils parviennent à rentrer à Souk-Ahras. Bernard meurt la même année, à huit ans."
+    }
+  },
+  {
+    "id": "cremieux-1940",
+    "year": 1940,
+    "dateLabel": {
+      "es": "Octubre de 1940",
+      "fr": "Octobre 1940"
+    },
+    "title": {
+      "es": "Vichy deroga el decreto Crémieux",
+      "fr": "Vichy abroge le décret Crémieux"
+    },
+    "location": {
+      "es": "Argelia",
+      "fr": "Algérie"
+    },
+    "key": true,
+    "description": {
+      "es": "De un día para otro, los judíos de Argelia dejan de ser franceses y quedan sometidos al estatuto de los judíos.",
+      "fr": "Du jour au lendemain, les juifs d'Algérie cessent d'être français et se retrouvent soumis au statut des juifs."
+    }
+  },
+  {
+    "id": "sentencias-1941",
+    "year": 1941,
+    "dateLabel": {
+      "es": "8 y 15 de enero de 1941",
+      "fr": "8 et 15 janvier 1941"
+    },
+    "title": {
+      "es": "Dos tribunales lo excluyen del estatuto de los judíos",
+      "fr": "Deux tribunaux l’excluent du statut des juifs"
+    },
+    "location": {
+      "es": "Souk-Ahras y Guelma",
+      "fr": "Souk-Ahras et Guelma"
+    },
+    "documented": true,
+    "key": true,
+    "description": {
+      "es": "El juez de paz de Souk-Ahras y el presidente del Tribunal Civil de Guelma dictan que Joseph no posee la cualidad de «judío indígena de los departamentos de Argelia», por haber nacido su padre en Jerusalén y ser por tanto extranjero. El dato procede del acta de notoriedad de 1886.",
+      "fr": "Le juge de paix de Souk-Ahras et le président du Tribunal civil de Guelma jugent que Joseph ne possède pas la qualité de « juif indigène des départements d'Algérie », son père étant né à Jérusalem et donc étranger. La donnée vient de l'acte de notoriété de 1886."
+    }
+  },
+  {
+    "id": "batna-1942",
+    "year": 1942,
+    "dateLabel": {
+      "es": "Noviembre de 1942",
+      "fr": "Novembre 1942"
+    },
+    "title": {
+      "es": "Huida a Batna",
+      "fr": "Fuite à Batna"
+    },
+    "location": {
+      "es": "Batna",
+      "fr": "Batna"
+    },
+    "description": {
+      "es": "Los alemanes desembarcan en Túnez. Joseph reúne a la familia y se la lleva a ciento cincuenta kilómetros de Souk-Ahras. La derrota alemana en Stalingrado desplaza el peso de la guerra al frente del este y Argelia vuelve a ser un lugar apartado.",
+      "fr": "Lorsque les Allemands débarquèrent en Tunisie, papa réunit sa famille et s'en alla à Batna, une petite ville à 150 km de Souk-Ahras. La défaite allemande de Stalingrad changea complètement les données et le poids de la guerre bascula sur le front de l'est. L'Algérie redevint une contrée éloignée."
+    }
+  },
+  {
+    "id": "prefecto-1943",
+    "year": 1943,
+    "dateLabel": {
+      "es": "28 de febrero de 1943",
+      "fr": "28 février 1943"
+    },
+    "title": {
+      "es": "Carta al prefecto de Constantina",
+      "fr": "Lettre au préfet de Constantine"
+    },
+    "location": {
+      "es": "Souk-Ahras",
+      "fr": "Souk-Ahras"
+    },
+    "documented": true,
+    "description": {
+      "es": "Joseph pide ser reintegrado en su condición de francés junto con sus tres hijos. Adjunta dos sentencias, cuatro partidas de nacimiento, un certificado de antecedentes y un atestado del alcalde. Gracias a esa carta conocemos hoy los nombres hebreos de sus hijos: Smerda, Semha y Ascher — los de sus tres abuelos.",
+      "fr": "Joseph demande à être réintégré dans sa qualité de Français ainsi que ses trois enfants. Il joint deux jugements, quatre bulletins de naissance, un extrait du casier judiciaire et une attestation du maire. C'est grâce à cette lettre que nous connaissons aujourd'hui les prénoms hébreux de ses enfants : Smerda, Semha et Ascher — ceux de leurs trois grands-parents."
+    }
+  },
+  {
+    "id": "tibi-1961",
+    "year": 1961,
+    "title": {
+      "es": "Georges Tibi se instala en Francia",
+      "fr": "Georges Tibi s’installe en France"
+    },
+    "location": {
+      "es": "Souk-Ahras",
+      "fr": "Souk-Ahras"
+    },
+    "key": true,
+    "description": {
+      "es": "Georges Tibi se presenta en casa y anuncia que se va a Francia a comprar una consulta. Joseph lo mira como si estuviera loco: «¿Qué dices? ¿Has perdido la cabeza? Francia no abandonará nunca Argelia». Georges se va y compra una consulta en Nolay.",
+      "fr": "Georges Tibi se présenta à la maison et annonça qu'il partait en France acheter une consultation. — « Mais que dis-tu ? Tu as perdu la tête ??? La France n'abandonnera jamais l'Algérie… » Mon père le regardait comme s'il était fou. Et Georges s'en alla et acheta une consultation à Nolay."
+    }
+  },
+  {
+    "id": "juguetes-1962",
+    "year": 1962,
+    "dateLabel": {
+      "es": "Marzo de 1962",
+      "fr": "Mars 1962"
+    },
+    "title": {
+      "es": "Abren una tienda de juguetes",
+      "fr": "Ouverture d’une boutique de jouets"
+    },
+    "location": {
+      "es": "Souk-Ahras",
+      "fr": "Souk-Ahras"
+    },
+    "description": {
+      "es": "Tres meses antes de la independencia, y mientras la mayoría de los franceses prepara la salida, los dos hermanos abren una tienda de juguetes.",
+      "fr": "Trois mois avant l'indépendance, alors que la majorité des Français prépare son départ, les deux frères ouvrent une boutique de jouets."
+    }
+  },
+  {
+    "id": "salida-1962",
+    "year": 1962,
+    "dateLabel": {
+      "es": "Julio de 1962",
+      "fr": "Juillet 1962"
+    },
+    "title": {
+      "es": "Salida de Argelia",
+      "fr": "Départ d’Algérie"
+    },
+    "location": {
+      "es": "Souk-Ahras → Nolay",
+      "fr": "Souk-Ahras → Nolay"
+    },
+    "key": true,
+    "description": {
+      "es": "Joseph tiene sesenta y cinco años, es el año de su jubilación, trabaja desde 1909 y no ha salido nunca de Argelia. Lydia parte con los tres hijos pequeños; él se queda para poder enviarles dinero desde allí. Eric recuerda que, al oír su acento, en Francia los taxis no querían llevarlos.",
+      "fr": "Joseph a 65 ans, c'est l'année de sa retraite, il travaille depuis 1909 et n'est jamais sorti d'Algérie. Lydia part avec les trois plus jeunes ; lui reste pour pouvoir leur envoyer de l'argent. Eric se souvient qu'en entendant leur accent, en France, les taxis ne voulaient pas les prendre."
+    }
+  },
+  {
+    "id": "chalon-1962",
+    "year": 1962,
+    "title": {
+      "es": "El año en Chalon-sur-Saône",
+      "fr": "L’année à Chalon-sur-Saône"
+    },
+    "location": {
+      "es": "Chalon-sur-Saône",
+      "fr": "Chalon-sur-Saône"
+    },
+    "description": {
+      "es": "Con los cuatro millones de francos que el Estado entregaba para instalarse, Joseph alquila un piso nuevo y compra muebles, lavadora y televisión. Eric lo recuerda así: «Teníamos cien veces más cosas materiales que en Souk-Ahras. Y sin embargo éramos desgraciados». En Souk-Ahras los conocía todo el mundo; en Chalon no conocían a nadie.",
+      "fr": "Avec les quatre millions d'anciens francs versés par l'État pour s'installer, Joseph loue un appartement neuf et achète des meubles, une machine à laver et une télévision. Eric l'a raconté ainsi : « Paradoxalement nous avions cent fois plus de choses matérielles qu'à Souk-Ahras. Et néanmoins nous étions malheureux. » À Souk-Ahras tout le monde les connaissait ; à Chalon, personne."
+    }
+  },
+  {
+    "id": "toulouse-1963",
+    "year": 1963,
+    "dateLabel": {
+      "es": "Julio de 1963",
+      "fr": "Juillet 1963"
+    },
+    "title": {
+      "es": "Toulouse",
+      "fr": "Toulouse"
+    },
+    "location": {
+      "es": "Toulouse",
+      "fr": "Toulouse"
+    },
+    "key": true,
+    "description": {
+      "es": "Se mudan cerca de Jacques, que se había instalado allí para estar cerca de su hijo Georges. Hace menos frío, hay una comunidad de franceses de Argelia y la forma de vivir se parece más. Hacen amigos casi de inmediato. Joseph tiene sesenta y seis años y organiza él la mudanza.",
+      "fr": "Ils s'installent près de Jacques, qui était venu vivre là pour se rapprocher de son fils Georges. Il y fait moins froid, il y a une communauté de Français d'Algérie et la façon de vivre des gens est plus proche de celle de là-bas. On y fit des amis presque immédiatement. Papa avait 66 ans et dut organiser lui-même le déménagement."
+    }
+  },
+  {
+    "id": "bone-1964",
+    "year": 1964,
+    "dateLabel": {
+      "es": "23 de julio de 1964",
+      "fr": "23 juillet 1964"
+    },
+    "title": {
+      "es": "Explosión del Star of Alexandria",
+      "fr": "Explosion du Star of Alexandria"
+    },
+    "location": {
+      "es": "Puerto de Bône",
+      "fr": "Port de Bône"
+    },
+    "description": {
+      "es": "El carguero egipcio, con cuatrocientas toneladas de explosivos a bordo, revienta en el puerto: noventa y ocho muertos y más de cien heridos. Lulue y André, que vivían allí, deciden marcharse.",
+      "fr": "Le cargo égyptien, chargé de 400 tonnes d'explosifs, explose dans le port : 98 morts et plus de 100 blessés. Lulue et André, qui vivaient là, décidèrent alors de s'en aller."
+    }
+  },
+  {
+    "id": "timgad-1964",
+    "year": 1964,
+    "dateLabel": {
+      "es": "Diciembre de 1964",
+      "fr": "Décembre 1964"
+    },
+    "title": {
+      "es": "Viaje por el sur de Argelia",
+      "fr": "Voyage dans le sud de l’Algérie"
+    },
+    "location": {
+      "es": "Timgad y Hassi Messaoud",
+      "fr": "Timgad et Hassi Messaoud"
+    },
+    "description": {
+      "es": "Joseph hace volver a sus hijos para las fiestas de fin de año y participar en un viaje por el sur organizado por los franceses que quedaban en Souk-Ahras. Eric recuerda las ruinas de Timgad y el 31 de diciembre en Hassi Messaoud.",
+      "fr": "Joseph fait revenir ses enfants pour les fêtes de fin d'année et pour un voyage dans le sud organisé par les Français restés à Souk-Ahras. Eric se souvient des ruines de Timgad et du 31 décembre à Hassi Messaoud."
+    }
+  },
+  {
+    "id": "alquiler-1965",
+    "year": 1965,
+    "dateLabel": {
+      "es": "27 de marzo de 1965",
+      "fr": "27 mars 1965"
+    },
+    "title": {
+      "es": "Reclamación de alquileres",
+      "fr": "Réclamation de loyers"
+    },
+    "location": {
+      "es": "Souk-Ahras",
+      "fr": "Souk-Ahras"
+    },
+    "documented": true,
+    "description": {
+      "es": "«Esta es la tercera carta y hasta hoy ninguna respuesta satisfactoria». Joseph reclama trece meses de alquiler atrasado: 383,50 dinares. El membrete dice Maison Sebi, 17 rue de l'A.L.N. — la calle principal ya ha cambiado de nombre.",
+      "fr": "« Voilà la 3ème lettre et aucune réponse satisfaisante à ce jour. » Joseph réclame treize mois de loyer arriéré : 383,50 DA. L'en-tête dit Maison Sebi, 17 rue de l'A.L.N. — la rue principale a déjà changé de nom."
+    }
+  },
+  {
+    "id": "ultima-maleta-1965",
+    "year": 1965,
+    "dateLabel": {
+      "es": "15 de junio de 1965",
+      "fr": "15 juin 1965"
+    },
+    "title": {
+      "es": "Salida definitiva de Argelia",
+      "fr": "Départ définitif d’Algérie"
+    },
+    "location": {
+      "es": "Aeródromo de Bône",
+      "fr": "Aérodrome de Bône"
+    },
+    "key": true,
+    "description": {
+      "es": "Joseph deja Argelia. Mounette lo acompaña al aeródromo de Bône y le hace una última fotografía, hoy perdida. Habían pasado sesenta y ocho años desde su nacimiento en la rue Mogador.",
+      "fr": "Joseph quitte l'Algérie. Mounette l'accompagne à l'aérodrome de Bône et lui fait une dernière photo, aujourd'hui perdue. Soixante-huit ans s'étaient écoulés depuis sa naissance rue Mogador."
+    }
+  },
+  {
+    "id": "autun-1965",
+    "year": 1965,
+    "title": {
+      "es": "Trabajo de almacenero en Autun",
+      "fr": "Travail de magasinier à Autun"
+    },
+    "location": {
+      "es": "Autun",
+      "fr": "Autun"
+    },
+    "description": {
+      "es": "A los sesenta y ocho años, Joseph se levanta a las seis, coge el autobús y pasa ocho horas de pie en un almacén sin calefacción, a más de quinientos kilómetros. Acaba dejándolo. Entre 1930 y 1962 la familia vivió en la misma casa; entre 1962 y 1969 se mudó seis veces.",
+      "fr": "À soixante-huit ans, Joseph se lève à six heures, prend l'autobus et passe huit heures debout dans un entrepôt non chauffé, à plus de cinq cents kilomètres. Il finit par abandonner. Entre 1930 et 1962 la famille vécut dans la même maison ; entre 1962 et 1969 elle déménagea six fois."
+    }
+  },
+  {
+    "id": "lulue-1966",
+    "year": 1966,
+    "title": {
+      "es": "Lulue empieza a enviar dinero desde Costa de Marfil",
+      "fr": "Lulue commence à envoyer de l’argent depuis la Côte d’Ivoire"
+    },
+    "location": {
+      "es": "Costa de Marfil → Toulouse",
+      "fr": "Côte d'Ivoire → Toulouse"
+    },
+    "description": {
+      "es": "Cobra en francos CFA, que valían el doble que el franco francés, y envía veinte mil francos al mes. Con eso Joseph puede alquilar una casa en la rue Henri Rachou. El dinero se le devolvió íntegro en 1990.",
+      "fr": "Elle est payée en francs CFA, qui valaient le double du franc français, et envoie 20 000 anciens francs par mois. Joseph peut ainsi louer une maison rue Henri Rachou. L'argent lui fut intégralement remboursé en 1990."
+    }
+  },
+  {
+    "id": "herencia-1967",
+    "year": 1967,
+    "title": {
+      "es": "Jacques cobra la indemnización",
+      "fr": "Jacques perçoit l’indemnisation"
+    },
+    "location": {
+      "es": "Toulouse",
+      "fr": "Toulouse"
+    },
+    "description": {
+      "es": "Por su condición de excombatiente, Jacques cobra antes que su hermano y reparte la suma entre sus dos hijos. Como se había casado en régimen de comunidad, la mitad correspondía a Lucie y, de ella, a sus dos hijas. Lydia no recibió nada; de los bienes de su madre le ofrecieron un televisor, que rechazó.",
+      "fr": "En raison de sa qualité d'ancien combattant, Jacques est indemnisé avant son frère et partage la somme entre ses deux enfants. Comme il s'était marié sous le régime de la communauté, la moitié revenait à Lucie et, d'elle, à ses deux filles. Lydia ne reçut rien ; des biens de sa mère on lui proposa un téléviseur, qu'elle refusa."
+    }
+  },
+  {
+    "id": "valencia-1973",
+    "year": 1973,
+    "dateLabel": {
+      "es": "28 de octubre de 1973",
+      "fr": "28 octobre 1973"
+    },
+    "title": {
+      "es": "Eric se casa en Valencia",
+      "fr": "Eric se marie à Valence"
+    },
+    "location": {
+      "es": "Valencia",
+      "fr": "Valence"
+    },
+    "documented": true,
+    "key": true,
+    "description": {
+      "es": "Ocho años después de la última maleta. Cómo llegó esta familia de Toulouse a Valencia es un capítulo que aún está por escribir.",
+      "fr": "Huit ans après la dernière valise. Comment cette famille est passée de Toulouse à Valence est un chapitre qui reste à écrire."
+    }
+  },
+  {
+    "id": "indemnizacion-1989",
+    "year": 1989,
+    "title": {
+      "es": "Veintiún años después",
+      "fr": "Vingt et un ans plus tard"
+    },
+    "location": {
+      "es": "Francia",
+      "fr": "France"
+    },
+    "description": {
+      "es": "Joseph es indemnizado, veintiún años después que su hermano. Tiene noventa y dos años y no llega a gastar un céntimo de aquel dinero, que representaba cincuenta y tres años de trabajo.",
+      "fr": "Quant à papa, il fut indemnisé en 1989, vingt et un ans plus tard. Il avait 92 ans et ne put dépenser pas un seul centime de cet argent qui représentait 53 années de travail."
+    }
+  },
+  {
+    "id": "muerte-1991",
+    "year": 1991,
+    "title": {
+      "es": "Muere Joseph",
+      "fr": "Mort de Joseph"
+    },
+    "key": true,
+    "description": {
+      "es": "A los noventa y cuatro años. Eric cerró así su relato: «Entre la llegada de mi abuelo de Rusia en 1885 y la salida en catástrofe de Argelia en 1962 transcurrieron setenta y siete años de trabajo, de esperanzas y de mucha pena».",
+      "fr": "À quatre-vingt-quatorze ans. Eric a clos ainsi son récit : « Entre l'arrivée de mon grand-père de Russie en 1885 et la sortie en catastrophe d'Algérie en 1962 s'écoulèrent 77 années de travail, d'espoirs et beaucoup de chagrin. »"
+    }
+  },
+  {
+    "id": "lydia-1997",
+    "year": 1997,
+    "dateLabel": {
+      "es": "21 de octubre de 1997",
+      "fr": "21 octobre 1997"
+    },
+    "title": {
+      "es": "Muere Lydia",
+      "fr": "Mort de Lydia"
+    },
+    "documented": true,
+    "description": {
+      "es": "A los ochenta y cinco años. Había nacido en Souk-Ahras en enero de 1912. Ese mismo año muere también su hija Murrielle, «Mounette», a los cincuenta y tres.",
+      "fr": "À quatre-vingt-cinq ans. Elle était née à Souk-Ahras en janvier 1912. Cette même année meurt aussi sa fille Murrielle, « Mounette », à cinquante-trois ans."
+    }
+  },
+  {
+    "id": "carta-2016",
+    "year": 2016,
+    "title": {
+      "es": "Se traduce la carta de 1894",
+      "fr": "Traduction de la lettre de 1894"
+    },
+    "key": true,
+    "description": {
+      "es": "De las decenas de cartas llegadas de Rusia entre 1880 y 1942, Joseph no se llevó ninguna al salir de Argelia en 1962. Eric conservó cuatro y se perdieron tres. Pierre hace traducir la que quedaba, del 3 de octubre de 1894, y aparece el apellido original: Reykin.",
+      "fr": "Des dizaines de lettres venues de Russie entre 1880 et 1942, Joseph n'en emporta aucune en quittant l'Algérie en 1962. Eric en conserva quatre, trois se perdirent. Pierre fait traduire celle qui restait, du 3 octobre 1894 : le nom d'origine apparaît, Reykin."
+    }
+  },
+  {
+    "id": "relatos-2018",
+    "year": 2018,
+    "dateLabel": {
+      "es": "Noviembre de 2018",
+      "fr": "Novembre 2018"
+    },
+    "title": {
+      "es": "Eric empieza a contar la historia",
+      "fr": "Eric commence à raconter l’histoire"
+    },
+    "key": true,
+    "description": {
+      "es": "Eric escribe a su sobrina Liliane y a su sobrino Pierre. De esos mensajes, en francés, procede todo el relato de esta web.",
+      "fr": "Eric écrit à sa nièce Liliane et à son neveu Pierre. C'est de ces messages, en français, que provient tout le récit de ce site."
+    }
+  },
+  {
+    "id": "nono-1978",
+    "year": 1978,
+    "title": {
+      "es": "Muere Nono",
+      "fr": "Mort de Nono"
+    },
+    "location": {
+      "es": "Francia",
+      "fr": "France"
+    },
+    "description": {
+      "es": "Jacqueline muere de meningitis tuberculosa a los cuarenta y siete años. Se había instalado en Francia en 1961, un año antes de la independencia, y fue por eso que la familia tuvo dónde llegar en julio de 1962.",
+      "fr": "Jacqueline meurt d'une méningite tuberculeuse à quarante-sept ans. Elle s'était installée en France en 1961, un an avant l'indépendance, et c'est pour cela que la famille eut où arriver en juillet 1962."
+    }
+  }
+]

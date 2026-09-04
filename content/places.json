@@ -1,0 +1,218 @@
+[
+  {
+    "id": "varna",
+    "city": "Varna",
+    "country": { "es": "¿Ucrania? ¿Bulgaria?", "fr": "Ukraine ? Bulgarie ?" },
+    "lat": 46.5,
+    "lng": 30.7,
+    "yearLabel": { "es": "1852", "fr": "1852" },
+    "order": 1,
+    "onRoute": true,
+    "note": {
+      "es": "Donde nació Achir Sebi. El lugar exacto sigue sin saberse: los documentos dicen Jerusalén, pero eso lo declaró él mismo sin poder probarlo. La familia siempre habló de Varna, en Rusia. Aquí aparece situado en el sur de Ucrania, la hipótesis más coherente con los pogromos de 1881, con las cartas y con su oficio de corredor de granos.",
+      "fr": "Là où naquit Achir Sebi. Le lieu exact reste inconnu : les documents disent Jérusalem, mais c'est lui-même qui l'a déclaré sans pouvoir le prouver. La famille a toujours parlé de Varna, en Russie. Il est situé ici dans le sud de l'Ukraine, l'hypothèse la plus cohérente avec les pogroms de 1881, avec les lettres et avec son métier de courtier en grains."
+    }
+  },
+  {
+    "id": "jerusalen",
+    "city": "Jerusalén",
+    "country": { "es": "Imperio otomano", "fr": "Empire ottoman" },
+    "lat": 31.77,
+    "lng": 35.21,
+    "yearLabel": { "es": "1885", "fr": "1885" },
+    "order": 2,
+    "onRoute": true,
+    "note": {
+      "es": "El destino del viaje. Nunca llegó. Y sin embargo es el lugar que consta en todos sus papeles: en 1886 declaró haber nacido aquí, y sus descendientes lo repiten todavía hoy en sus árboles genealógicos.",
+      "fr": "Le but du voyage. Il n'y arriva jamais. Et pourtant c'est le lieu qui figure sur tous ses papiers : en 1886 il déclara y être né, et ses descendants le répètent encore aujourd'hui dans leurs arbres généalogiques."
+    }
+  },
+  {
+    "id": "guelma",
+    "city": "Guelma",
+    "country": { "es": "Argelia", "fr": "Algérie" },
+    "lat": 36.46,
+    "lng": 7.43,
+    "yearArrived": 1885,
+    "yearLabel": { "es": "1885 – 1922", "fr": "1885 – 1922" },
+    "order": 3,
+    "onRoute": true,
+    "note": {
+      "es": "Un rincón perdido cerca de Túnez, rodeado de montañas y con buenas tierras. Aquí se integró en la pequeña comunidad judía, aceptó el puesto de rabino y se casó. En una sola habitación de la rue Mogador nacieron los ocho hijos.",
+      "fr": "Un trou perdu proche de la Tunisie, entouré de montagnes et avec des terres fertiles. C'est ici qu'il s'intégra dans la petite communauté juive, accepta le poste de rabbin et se maria. Dans une seule pièce de la rue Mogador naquirent les huit enfants."
+    }
+  },
+  {
+    "id": "souk-ahras",
+    "city": "Souk-Ahras",
+    "country": { "es": "Argelia", "fr": "Algérie" },
+    "lat": 36.29,
+    "lng": 7.95,
+    "yearArrived": 1914,
+    "yearLabel": { "es": "1914 – 1965", "fr": "1914 – 1965" },
+    "order": 4,
+    "onRoute": true,
+    "note": {
+      "es": "Una ciudad de dos mil europeos donde todo el mundo se conocía y por la calle llamaban a cada uno por su nombre de pila. Construida siguiendo las lecciones del barón Haussmann. La Maison Sebi estaba en la rue Victor Hugo, la calle principal; la casa, en el número 9 de la rue Laurent Rose.",
+      "fr": "Une ville de deux mille Européens où tout le monde se connaissait et où, dans les rues, les gens vous appelaient par votre prénom. Construite selon les leçons du baron Haussmann. La Maison Sebi était rue Victor Hugo, la rue principale ; la maison, au nº 9 de la rue Laurent Rose."
+    }
+  },
+  {
+    "id": "bone",
+    "city": "Bône",
+    "country": { "es": "Argelia · hoy Annaba", "fr": "Algérie · aujourd'hui Annaba" },
+    "lat": 36.9,
+    "lng": 7.77,
+    "yearLabel": { "es": "1940s – 1965", "fr": "années 1940 – 1965" },
+    "order": 5,
+    "onRoute": true,
+    "note": {
+      "es": "«Una de las ciudades más bellas de Argelia». Aquí vivían Nono y Georges, aquí estudió Mounette porque en Souk-Ahras no había liceo, y aquí explotó en 1964 el carguero Star of Alexandria. Del aeródromo de Bône salió Joseph el 15 de junio de 1965.",
+      "fr": "« Une des villes les plus belles d'Algérie. » C'est ici que vivaient Nono et Georges, ici que Mounette étudia parce qu'à Souk-Ahras il n'y avait pas de lycée, et ici qu'explosa en 1964 le cargo Star of Alexandria. C'est de l'aérodrome de Bône que Joseph partit le 15 juin 1965."
+    }
+  },
+  {
+    "id": "batna",
+    "city": "Batna",
+    "country": { "es": "Argelia", "fr": "Algérie" },
+    "lat": 35.56,
+    "lng": 6.17,
+    "yearLabel": { "es": "1942", "fr": "1942" },
+    "note": {
+      "es": "El refugio cuando los alemanes desembarcaron en Túnez.",
+      "fr": "Le refuge lorsque les Allemands débarquèrent en Tunisie."
+    }
+  },
+  {
+    "id": "constantina",
+    "city": "Constantina",
+    "country": { "es": "Argelia", "fr": "Algérie" },
+    "lat": 36.37,
+    "lng": 6.61,
+    "yearLabel": { "es": "1871 · 1943", "fr": "1871 · 1943" },
+    "note": {
+      "es": "De aquí era Zmirda Zarade. Y aquí estaba el prefecto al que Joseph escribió en 1943.",
+      "fr": "C'est d'ici qu'était Zmirda Zarade. Et c'est ici qu'était le préfet à qui Joseph écrivit en 1943."
+    }
+  },
+  {
+    "id": "timgad",
+    "city": "Timgad",
+    "country": { "es": "Argelia", "fr": "Algérie" },
+    "lat": 35.48,
+    "lng": 6.47,
+    "yearLabel": { "es": "Diciembre de 1964", "fr": "Décembre 1964" },
+    "note": {
+      "es": "«Todavía recuerdo las ruinas de Timgad bajo la tormenta». El último viaje por el país.",
+      "fr": "« Je me souviens encore des ruines de Timgad sous la tourmente. » Le dernier voyage à travers le pays."
+    }
+  },
+  {
+    "id": "hassi",
+    "city": "Hassi Messaoud",
+    "country": { "es": "Argelia", "fr": "Algérie" },
+    "lat": 31.68,
+    "lng": 6.07,
+    "yearLabel": { "es": "31 de diciembre de 1964", "fr": "31 décembre 1964" },
+    "note": {
+      "es": "El último fin de año en Argelia.",
+      "fr": "Le dernier réveillon en Algérie."
+    }
+  },
+  {
+    "id": "nolay",
+    "city": "Nolay",
+    "country": { "es": "Francia", "fr": "France" },
+    "lat": 46.95,
+    "lng": 4.62,
+    "yearArrived": 1961,
+    "yearLabel": { "es": "1961", "fr": "1961" },
+    "order": 6,
+    "onRoute": true,
+    "note": {
+      "es": "Un pueblo de Borgoña «cerrado con doble vuelta de llave, donde la gente no se saludaba nunca», con inviernos terribles para gente de Argelia. Georges Tibi compró aquí su consulta un año antes de la independencia. Fue la primera parada de todos los demás.",
+      "fr": "Un village de Bourgogne « fermé à double tour où les gens ne se saluaient jamais », avec des hivers terribles pour des gens d'Algérie. Georges Tibi y acheta sa consultation un an avant l'indépendance. Ce fut la première étape de tous les autres."
+    }
+  },
+  {
+    "id": "chalon",
+    "city": "Chalon-sur-Saône",
+    "country": { "es": "Francia", "fr": "France" },
+    "lat": 46.78,
+    "lng": 4.85,
+    "yearArrived": 1962,
+    "yearLabel": { "es": "1962 – 1963", "fr": "1962 – 1963" },
+    "order": 7,
+    "onRoute": true,
+    "note": {
+      "es": "Un piso nuevo en el quai du Linguet, con muebles nuevos y la primera televisión. Y un año entero sin conocer a nadie.",
+      "fr": "Un appartement neuf au quai du Linguet, avec des meubles neufs et la première télé. Et une année entière sans connaître personne."
+    }
+  },
+  {
+    "id": "toulouse",
+    "city": "Toulouse",
+    "country": { "es": "Francia", "fr": "France" },
+    "lat": 43.6,
+    "lng": 1.44,
+    "yearArrived": 1963,
+    "yearLabel": { "es": "desde 1963", "fr": "à partir de 1963" },
+    "order": 8,
+    "onRoute": true,
+    "note": {
+      "es": "Rue Béguet David 9, después el boulevard de la Courtie, y por fin el número 5 de la rue Henri Rachou. Aquí sí había comunidad, y amigos casi de inmediato. Toda la familia acabó aquí porque treinta años antes un primo se peleó con un profesor en Argel.",
+      "fr": "9 rue Béguet David, puis le boulevard de la Courtie, et enfin le nº 5 de la rue Henri Rachou. Ici il y avait une communauté, et des amis presque immédiatement. Toute la famille a fini là parce que trente ans plus tôt un cousin s'était battu avec un professeur à Alger."
+    }
+  },
+  {
+    "id": "autun",
+    "city": "Autun",
+    "country": { "es": "Francia", "fr": "France" },
+    "lat": 46.95,
+    "lng": 4.3,
+    "yearLabel": { "es": "1965 – 1966", "fr": "1965 – 1966" },
+    "note": {
+      "es": "Quinientos kilómetros para un trabajo de almacenero, a los sesenta y ocho años.",
+      "fr": "Plus de 500 km pour un travail de magasinier, à soixante-huit ans."
+    }
+  },
+  {
+    "id": "paris",
+    "city": "París",
+    "country": { "es": "Francia", "fr": "France" },
+    "lat": 48.86,
+    "lng": 2.35,
+    "note": {
+      "es": "Donde acabó viviendo Anna, la hermana de Joseph, que murió en el año 2000.",
+      "fr": "Où finit par vivre Anna, la sœur de Joseph, morte en l'an 2000."
+    }
+  },
+  {
+    "id": "abiyan",
+    "city": "Costa de Marfil",
+    "country": { "es": "África occidental", "fr": "Afrique de l'Ouest" },
+    "lat": 6.5,
+    "lng": -5.0,
+    "yearArrived": 1965,
+    "yearLabel": { "es": "1965", "fr": "1965" },
+    "note": {
+      "es": "Lulue y André, maestros. Desde aquí llegó cada mes el dinero que mantuvo a la familia en Francia.",
+      "fr": "Lulue et André, instituteurs. C'est d'ici qu'arriva chaque mois l'argent qui maintint la famille en France."
+    }
+  },
+  {
+    "id": "valencia",
+    "city": "Valencia",
+    "country": { "es": "España", "fr": "Espagne" },
+    "lat": 39.47,
+    "lng": -0.38,
+    "yearArrived": 1973,
+    "yearLabel": { "es": "desde 1973", "fr": "à partir de 1973" },
+    "order": 9,
+    "onRoute": true,
+    "note": {
+      "es": "La última parada, de momento. Aquí se casó Eric en 1973 y aquí nacieron sus dos hijos. Cómo llegó hasta aquí es un capítulo que todavía está por escribir.",
+      "fr": "La dernière étape, pour l'instant. C'est ici qu'Eric se maria en 1973 et ici que naquirent ses deux enfants. Comment il est arrivé jusque-là est un chapitre qui reste à écrire."
+    }
+  }
+]

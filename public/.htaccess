@@ -1,0 +1,44 @@
+# Configuración de Apache para el sitio publicado.
+#
+# Next lo copia tal cual de public/ a out/ al compilar con output: "export",
+# así que se despliega solo. No contiene credenciales: las contraseñas viven
+# en .htpasswd, que va FUERA de httpdocs y NUNCA en este repositorio.
+
+# --- Acceso restringido -----------------------------------------------------
+# El sitio contiene documentos personales y fotografías de personas vivas.
+# Ajusta la ruta de AuthUserFile a la de tu servidor: es absoluta y Apache no
+# arranca el directorio si no la encuentra.
+AuthType Basic
+AuthName "Archivo familiar Sebi"
+AuthUserFile /var/www/vhosts/TU-DOMINIO/.htpasswd
+Require valid-user
+
+# --- Rutas ------------------------------------------------------------------
+RewriteEngine On
+# La raíz lleva al castellano; el francés está en /fr/.
+RewriteRule ^$ /es/ [R=302,L]
+
+ErrorDocument 404 /404.html
+
+# --- Caché ------------------------------------------------------------------
+# Los ficheros de _next/static llevan un hash en el nombre: cambian de nombre
+# cuando cambia el contenido, así que se pueden cachear indefinidamente.
+<IfModule mod_headers.c>
+  <FilesMatch "\.(js|css|woff2)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>
+
+# Las fotos sí conservan su nombre, así que se cachean por un tiempo acotado.
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/x-icon "access plus 1 month"
+</IfModule>
+
+# --- No indexar -------------------------------------------------------------
+# Refuerza el robots: noindex que ya lleva app/[lang]/layout.tsx, por si algún
+# buscador llegara a ver el sitio.
+<IfModule mod_headers.c>
+  Header set X-Robots-Tag "noindex, nofollow"
+</IfModule>

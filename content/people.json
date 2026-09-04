@@ -1,0 +1,681 @@
+[
+  {
+    "id": "achir-sebi",
+    "fullName": "Achir «Asher» Sebi",
+    "nickname": {
+      "es": "nacido Tsvi Reykin",
+      "fr": "né Tsvi Reykin"
+    },
+    "birthYear": 1852,
+    "deathYear": 1924,
+    "birthPlace": "Varna (?)",
+    "role": {
+      "es": "Rabino de Guelma",
+      "fr": "Rabbin de Guelma"
+    },
+    "generation": 1,
+    "photo": "/fotos/achir-sebi.jpg",
+    "photoCaption": {
+      "es": "La única fotografía que existe de él. Un anciano de barba blanca, en Guelma, hacia el final de su vida. Del hombre que llegó enfermo en 1885 no queda ninguna otra imagen.",
+      "fr": "La seule photographie qui existe de lui. Un vieil homme à la barbe blanche, à Guelma, vers la fin de sa vie. De l'homme qui arriva malade en 1885, il ne reste aucune autre image."
+    },
+    "bio": {
+      "es": "Corredor de granos en el Imperio Ruso. Viudo y con una hija pequeña, salió hacia Jerusalén en 1885 tras los pogromos. Enfermó durante la travesía y fue desembarcado en Argelia. Se estableció en Guelma, donde ejerció de rabino: las actas de nacimiento de sus hijos, desde 1888, lo designan así. Adoptó el apellido Sebi, del hebreo tsebi, «ciervo», que es lo que significaba su nombre ruso, Tsvi.",
+      "fr": "Courtier en grains dans l'Empire russe. Veuf et père d'une petite fille, il partit vers Jérusalem en 1885 après les pogroms. Il tomba malade pendant la traversée et fut débarqué en Algérie. Il s'établit à Guelma, où il exerça comme rabbin : les actes de naissance de ses enfants, dès 1888, le désignent ainsi. Il adopta le nom Sebi, de l'hébreu tsebi, « cerf », ce que signifiait son prénom russe, Tsvi."
+    },
+    "photoPosition": "center 30%"
+  },
+  {
+    "id": "zmirda-zarade",
+    "fullName": "Zmirda Zarade",
+    "birthYear": 1871,
+    "deathYear": 1926,
+    "birthPlace": "Constantine",
+    "role": {
+      "es": "La abuela de la rue Mogador",
+      "fr": "La grand-mère de la rue Mogador"
+    },
+    "generation": 1,
+    "bio": {
+      "es": "Nació el 25 de marzo de 1871 en el número 13 de la rue Vieux de Constantine, hija de Haï Zaradez y de Zaïna Zeïra Narboni. Su padre murió cuando ella tenía once años. Se casó a los quince, en un matrimonio concertado. Vivieron en una habitación de la rue Mogador de Guelma, sin electricidad ni agua corriente. Tuvo dieciséis embarazos y ocho de los niños no sobrevivieron. Según Eric, iba cada mañana a la fuente a por agua y cosía a máquina de noche; la máquina había sido su dote. Escribió de ella: «Creo que es la mujer que más he admirado en mi vida».",
+      "fr": "Née le 25 mars 1871 au 13 rue Vieux à Constantine, fille de Haï Zaradez et de Zaïna Zeïra Narboni. Son père mourut quand elle avait onze ans. Elle se maria à quinze ans, mariage arrangé. Ils vivaient dans une pièce rue Mogador à Guelma, sans électricité ni eau courante. Elle eut seize grossesses et huit des enfants ne survécurent pas. Selon Eric, elle allait chaque matin à la fontaine chercher l'eau et cousait à la machine la nuit ; la machine avait été sa dot. Il a écrit d'elle : « C'est je crois la femme que j'ai le plus admiré dans ma vie. »"
+    }
+  },
+  {
+    "id": "ana-ucrania",
+    "fullName": "Ana",
+    "nickname": {
+      "es": "la de Ucrania",
+      "fr": "celle d'Ukraine"
+    },
+    "deathYear": 1942,
+    "birthPlace": "Ucrania",
+    "role": {
+      "es": "Hija del primer matrimonio",
+      "fr": "Fille du premier mariage"
+    },
+    "generation": 2,
+    "photo": "/fotos/ana-coloreada.jpg",
+    "photoNote": {
+      "es": "Fotografía coloreada con IA a partir del original en blanco y negro. El color del pelo y de los ojos es una reconstrucción del algoritmo, no un dato.",
+      "fr": "Photographie colorisée par IA à partir de l'original en noir et blanc. La couleur des cheveux et des yeux est une reconstruction de l'algorithme, pas une donnée."
+    },
+    "fatherId": "achir-sebi",
+    "bio": {
+      "es": "Hija del primer matrimonio de Achir, en Rusia. Al morir su madre, él la dejó al cuidado de su cuñada y emigró; no volvieron a verse. Entre 1880 y 1942 la familia que quedó allí escribió a Argelia. Según Eric, los alemanes la asesinaron en 1942; las cartas dejan de llegar ese año. Se conserva un retrato suyo y una de aquellas cartas.",
+      "fr": "Fille du premier mariage d'Achir, en Russie. À la mort de sa mère, il la laissa aux soins de sa belle-sœur et émigra ; ils ne se revirent jamais. Entre 1880 et 1942 la famille restée là-bas écrivit en Algérie. Selon Eric, les Allemands l'assassinèrent en 1942 ; les lettres cessent d'arriver cette année-là. On conserve un portrait d'elle et une de ces lettres."
+    },
+    "photoPosition": "center 22%",
+    "branch": "ucrania"
+  },
+  {
+    "id": "zaina-sebi",
+    "fullName": "Zaina Sebi",
+    "birthYear": 1887,
+    "deathYear": 1888,
+    "birthPlace": "Guelma",
+    "generation": 2,
+    "fatherId": "achir-sebi",
+    "motherId": "zmirda-zarade",
+    "bio": {
+      "es": "La primogénita. Vivió siete meses. Su acta de defunción, de febrero de 1888, se conserva en el registro civil de Guelma y anota como causa «a una edad temprana». Llevaba el nombre de la madre de Zmirda.",
+      "fr": "L'aînée. Elle vécut sept mois. Son acte de décès, de février 1888, est conservé à l'état civil de Guelma et note comme cause « à un jeune âge ». Elle portait le prénom de la mère de Zmirda."
+    }
+  },
+  {
+    "id": "jacob-sebi",
+    "fullName": "Jacob Sebi",
+    "nickname": {
+      "es": "Jacques",
+      "fr": "Jacques"
+    },
+    "birthYear": 1889,
+    "deathYear": 1976,
+    "birthPlace": "Guelma",
+    "role": {
+      "es": "El hermano",
+      "fr": "Le frère"
+    },
+    "generation": 2,
+    "fatherId": "achir-sebi",
+    "motherId": "zmirda-zarade",
+    "bio": {
+      "es": "Excombatiente de la Primera Guerra Mundial, con heridas que le dejaron casi ciego y con las piernas muy dañadas. Con su hermano Joseph compartió casa, comercio y ganancias durante más de sesenta años. En 1962 salieron de Argelia y se separaron. Cobró su indemnización en 1967 y la repartió entre sus dos hijos, sin incluir a Lydia. Al enviudar, fue ella quien lo acogió los dos últimos años de su vida.",
+      "fr": "Ancien combattant de la Première Guerre mondiale, avec des blessures qui le laissèrent presque aveugle et les jambes très abîmées. Avec son frère Joseph il partagea maison, commerce et gains pendant plus de soixante ans. En 1962 ils quittèrent l'Algérie et furent séparés. Il fut indemnisé en 1967 et partagea la somme entre ses deux enfants, sans inclure Lydia. Devenu veuf, c'est elle qui le recueillit les deux dernières années de sa vie."
+    },
+    "photo": "/fotos/jacques.jpg",
+    "photoCaption": {
+      "es": "Detalle de un retrato de estudio con Lucie, su mujer.",
+      "fr": "Détail d'un portrait de studio avec Lucie, sa femme."
+    }
+  },
+  {
+    "id": "esther-sebi",
+    "fullName": "Esther Sebi",
+    "birthYear": 1893,
+    "deathYear": 1893,
+    "birthPlace": "Guelma",
+    "generation": 2,
+    "fatherId": "achir-sebi",
+    "motherId": "zmirda-zarade",
+    "bio": {
+      "es": "Nació el 11 de mayo de 1893 en Guelma, a las cuatro de la madrugada. Vivió tres semanas.",
+      "fr": "Née le 11 mai 1893 à Guelma, à quatre heures du matin. Elle vécut trois semaines."
+    }
+  },
+  {
+    "id": "sarah-sebi",
+    "fullName": "Sarah Sebi",
+    "birthYear": 1894,
+    "deathYear": 1961,
+    "birthPlace": "Guelma",
+    "generation": 2,
+    "fatherId": "achir-sebi",
+    "motherId": "zmirda-zarade",
+    "bio": {
+      "es": "Nació el 10 de octubre de 1894 en Guelma, a las cuatro de la madrugada. Se casó en 1917 con Azar Lazare Zaradez y vivieron en Batna y en Aïn M'lila. Murió en Constantine el 6 de febrero de 1961.",
+      "fr": "Née le 10 octobre 1894 à Guelma, à quatre heures du matin. Elle épousa en 1917 Azar Lazare Zaradez et ils vécurent à Batna et à Aïn M'lila. Elle mourut à Constantine le 6 février 1961."
+    }
+  },
+  {
+    "id": "joseph-sebi",
+    "fullName": "Joseph Sebi",
+    "birthYear": 1897,
+    "deathYear": 1991,
+    "birthPlace": "Guelma",
+    "role": {
+      "es": "El eje de esta historia",
+      "fr": "Le pivot de cette histoire"
+    },
+    "generation": 2,
+    "fatherId": "achir-sebi",
+    "motherId": "zmirda-zarade",
+    "bio": {
+      "es": "Nació el 14 de enero de 1897 en la rue Mogador. Empezó a trabajar a los doce años vendiendo hilo, agujas y botones por los pueblos; se conserva su cartilla de trabajo infantil de 1909. Con su hermano llevó la Maison Sebi de Souk-Ahras y en 1928 construyeron la primera casa de hormigón armado de la ciudad. En 1962, a los sesenta y cinco años, empezó de nuevo en Francia: seis mudanzas en siete años y un trabajo de almacenero a los sesenta y ocho. Fue indemnizado en 1989, veintiún años después que su hermano, a los noventa y dos.",
+      "fr": "Né le 14 janvier 1897 rue Mogador. Il commença à travailler à douze ans en vendant du fil, des aiguilles et des boutons dans les villages ; son livret de travail des enfants de 1909 est conservé. Avec son frère il tint la Maison Sebi de Souk-Ahras et en 1928 ils construisirent la première maison en ciment armé de la ville. En 1962, à soixante-cinq ans, il recommença en France : six déménagements en sept ans et un travail de magasinier à soixante-huit ans. Il fut indemnisé en 1989, vingt et un ans après son frère, à quatre-vingt-douze ans."
+    },
+    "photo": "/fotos/joseph.jpg",
+    "photoCaption": {
+      "es": "Detalle de la fotografía de su boda con Lydia, el 24 de marzo de 1930.",
+      "fr": "Détail de la photographie de son mariage avec Lydia, le 24 mars 1930."
+    }
+  },
+  {
+    "id": "marie-sebi",
+    "fullName": "Marie Sebi",
+    "birthYear": 1900,
+    "birthPlace": "Guelma",
+    "generation": 2,
+    "fatherId": "achir-sebi",
+    "motherId": "zmirda-zarade",
+    "bio": {
+      "es": "Nació el 19 de marzo de 1900 en Guelma. Se casó en 1920 con Isaac Karsenti. Acabó viviendo en la región de París, como su hermana Anna: murió el 23 de diciembre de 1983 en el distrito 12, viuda, con domicilio en Saint-Maur-des-Fossés.",
+      "fr": "Née le 19 mars 1900 à Guelma. Elle épousa en 1920 Isaac Karsenti. Elle finit par vivre en région parisienne, comme sa sœur Anna : elle mourut le 23 décembre 1983 dans le 12e arrondissement, veuve, domiciliée à Saint-Maur-des-Fossés."
+    },
+    "deathYear": 1983
+  },
+  {
+    "id": "anna-sebi",
+    "fullName": "Anna Sebi",
+    "nickname": {
+      "es": "la tía Ana de París",
+      "fr": "la tante Ana de Paris"
+    },
+    "birthYear": 1902,
+    "deathYear": 2000,
+    "birthPlace": "Guelma",
+    "generation": 2,
+    "fatherId": "achir-sebi",
+    "motherId": "zmirda-zarade",
+    "bio": {
+      "es": "Vivió en París y murió en el año 2000. Fue quien contó a Eric cómo su madre iba cada mañana a la fuente a por agua. No debe confundirse con la otra Ana, la media hermana que quedó en Ucrania: no llegaron a conocerse.",
+      "fr": "Elle vécut à Paris et mourut en l'an 2000. C'est elle qui raconta à Eric comment sa mère allait chaque matin à la fontaine chercher l'eau. À ne pas confondre avec l'autre Ana, la demi-sœur restée en Ukraine : elles ne se sont pas connues."
+    }
+  },
+  {
+    "id": "abraham-guez",
+    "fullName": "Abraham Güez",
+    "birthYear": 1885,
+    "deathYear": 1963,
+    "role": {
+      "es": "El padre de Lydia",
+      "fr": "Le père de Lydia"
+    },
+    "generation": 2,
+    "bio": {
+      "es": "El padre de Lydia. Se casó con Semha «Lucie» y tuvieron dos hijos: Bernard Benjamin, en 1910, y Lydia, en 1912. En la familia se ha dicho que las abandonó. Los datos disponibles son estos: cuando Lucie se volvió a casar, en febrero de 1922, él seguía vivo, y murió en 1963. No aparece en ninguno de los relatos de Eric.",
+      "fr": "Le père de Lydia. Il épousa Semha « Lucie » et ils eurent deux enfants : Bernard Benjamin en 1910 et Lydia en 1912. On a dit dans la famille qu'il les avait abandonnées. Les données disponibles sont celles-ci : quand Lucie se remaria, en février 1922, il était encore vivant, et il mourut en 1963. Il n'apparaît dans aucun des récits d'Eric."
+    },
+    "branch": "guez"
+  },
+  {
+    "id": "lucie-guez",
+    "fullName": "Semha «Lucie»",
+    "birthYear": 1887,
+    "deathYear": 1974,
+    "role": {
+      "es": "La madre de Lydia",
+      "fr": "La mère de Lydia"
+    },
+    "generation": 2,
+    "bio": {
+      "es": "Casada primero con Abraham Güez, del que tuvo a Bernard Benjamin y a Lydia. Se casó después con Jacques en Bône, el 27 de febrero de 1922, en régimen de comunidad de bienes — un detalle que cincuenta años más tarde decidiría una herencia. Era sorda desde hacía años y sufría una infección en los dedos, la misma enfermedad que acabaría matando a su hija Suzanne. Su apellido de soltera todavía no lo sabemos.",
+      "fr": "Mariée d'abord à Abraham Güez, dont elle eut Bernard Benjamin et Lydia. Elle épousa ensuite Jacques à Bône, le 27 février 1922, sous le régime de la communauté — un détail qui, cinquante ans plus tard, déciderait d'un héritage. Elle était sourde depuis de nombreuses années et souffrait d'une maladie infectieuse dans les doigts, celle-là même qui finirait par tuer sa fille Suzanne. Son nom de jeune fille nous est encore inconnu."
+    },
+    "photo": "/fotos/lucie.jpg",
+    "photoCaption": {
+      "es": "Detalle de un retrato de estudio con Jacques, su segundo marido.",
+      "fr": "Détail d'un portrait de studio avec Jacques, son second mari."
+    },
+    "branch": "guez"
+  },
+  {
+    "id": "lydia-guez",
+    "fullName": "Lydie Esther Zora Güez",
+    "nickname": {
+      "es": "Lydia",
+      "fr": "Lydia"
+    },
+    "birthYear": 1912,
+    "deathYear": 1997,
+    "birthPlace": "Souk-Ahras",
+    "role": {
+      "es": "La madre",
+      "fr": "La mère"
+    },
+    "generation": 3,
+    "fatherId": "abraham-guez",
+    "motherId": "lucie-guez",
+    "bio": {
+      "es": "Nació el 12 de enero de 1912 y murió el 21 de octubre de 1997, a los ochenta y cinco años. Se casó con Joseph el lunes 24 de marzo de 1930. En Souk-Ahras se ocupó solo de su casa y de sus hijos. En julio de 1962, con cincuenta años, salió de Argelia con los tres pequeños mientras su marido se quedaba atrás, y por primera vez desde 1930 tuvo que ocuparse de todo. Llamó «papá» toda su vida a Jacques, que no era su padre — el suyo vivió hasta 1963 sin aparecer nunca. De la herencia de su madre no recibió nada: le ofrecieron un televisor y lo rechazó. Cuando Jacques quedó solo y nadie quiso hacerse cargo, fue ella quien lo acogió.",
+      "fr": "Née le 12 janvier 1912, morte le 21 octobre 1997, à quatre-vingt-cinq ans. Elle épousa Joseph le lundi 24 mars 1930. À Souk-Ahras elle ne s'occupa que de ses enfants et de sa maison. En juillet 1962, à cinquante ans, elle quitta l'Algérie avec les trois petits pendant que son mari restait là-bas, et pour la première fois depuis 1930 elle dut s'occuper de tout. Elle appela « papa » toute sa vie Jacques, qui n'était pas son père — le sien vécut jusqu'en 1963 sans jamais apparaître. De l'héritage de sa mère elle ne reçut rien : on lui proposa un téléviseur et elle le refusa. Quand Jacques resta seul et que personne ne voulut s'en charger, c'est elle qui le recueillit."
+    },
+    "photo": "/fotos/lydia.jpg",
+    "photoCaption": {
+      "es": "Detalle de la fotografía de su boda con Joseph, el 24 de marzo de 1930. Tenía dieciocho años.",
+      "fr": "Détail de la photographie de son mariage avec Joseph, le 24 mars 1930. Elle avait dix-huit ans."
+    }
+  },
+  {
+    "id": "georges-sebi",
+    "fullName": "Georges Sebi",
+    "birthYear": 1914,
+    "role": {
+      "es": "Hijo de Jacques",
+      "fr": "Fils de Jacques"
+    },
+    "generation": 3,
+    "fatherId": "jacob-sebi",
+    "bio": {
+      "es": "Huérfano de madre, criado por sus tías. Estudiando en la universidad de Argel se peleó con un profesor y fue expulsado; se marchó entonces a Francia y se estableció en Toulouse. Treinta años después, su padre se mudó allí para estar cerca de él, y detrás fue el resto de la familia. Eric lo resumía así: «si Georges no le hubiera dado un puñetazo a su profesor, tú, tu hermana y mis hijos no habríais nacido».",
+      "fr": "Orphelin de mère, élevé par ses tantes. Étudiant à l'université d'Alger, il se battit avec un professeur et fut expulsé ; il partit alors en France et s'établit à Toulouse. Trente ans plus tard son père vint vivre près de lui, et le reste de la famille suivit. Eric le résumait ainsi : « si Georges n'avait pas donné un coup de poing à son professeur, toi, ta sœur et mes enfants ne seraient pas nés »."
+    }
+  },
+  {
+    "id": "jacqueline-sebi",
+    "fullName": "Jacqueline Sebi",
+    "nickname": {
+      "es": "Nono",
+      "fr": "Nono"
+    },
+    "birthYear": 1931,
+    "birthPlace": "Souk-Ahras",
+    "generation": 4,
+    "fatherId": "joseph-sebi",
+    "motherId": "lydia-guez",
+    "photo": "/fotos/nono.jpg",
+    "bio": {
+      "es": "La mayor. Su nombre hebreo, Smerda, era el de su bisabuela Zmirda. Se casó con Georges Tibi, médico, y vivieron en Bône. En 1961 él compró una consulta en Nolay y se instalaron en Francia un año antes que el resto de la familia. Tuvo tres hijos. Murió en 1978, de meningitis tuberculosa, a los cuarenta y siete años.",
+      "fr": "L'aînée. Son prénom hébreu, Smerda, était celui de son arrière-grand-mère Zmirda. Elle épousa Georges Tibi, médecin, et ils vécurent à Bône. En 1961 il acheta une consultation à Nolay et ils s'installèrent en France un an avant le reste de la famille. Elle eut trois enfants. Elle mourut en 1978 d'une méningite tuberculeuse, à quarante-sept ans."
+    },
+    "photoCaption": {
+      "es": "Detalle de un retrato de boda. Estaba sentada a la izquierda, con un ramo y una flor en el pelo.",
+      "fr": "Détail d'un portrait de mariage. Elle était assise à gauche, avec un bouquet et une fleur dans les cheveux."
+    },
+    "deathYear": 1978
+  },
+  {
+    "id": "bernard-sebi",
+    "fullName": "Bernard Sebi",
+    "birthYear": 1932,
+    "deathYear": 1940,
+    "birthPlace": "Souk-Ahras",
+    "generation": 4,
+    "fatherId": "joseph-sebi",
+    "motherId": "lydia-guez",
+    "bio": {
+      "es": "Su nombre hebreo, Ascher, era el de su abuelo Achir. Tenía leucemia. Los médicos indicaron que en Francia había quien podía tratarle y la familia viajó allí; les sorprendió el comienzo de la guerra y consiguieron regresar a Souk-Ahras. Murió ese mismo año, a los ocho. La leucemia no tenía entonces tratamiento.",
+      "fr": "Son prénom hébreu, Ascher, était celui de son grand-père Achir. Il avait une leucémie. Les médecins indiquèrent qu'en France quelqu'un pouvait le soigner et la famille s'y rendit ; le début de la guerre les y surprit et ils parvinrent à rentrer à Souk-Ahras. Il mourut la même année, à huit ans. La leucémie ne se soignait pas alors."
+    }
+  },
+  {
+    "id": "lucette-sebi",
+    "fullName": "Lucette Sebi",
+    "nickname": {
+      "es": "Lulue",
+      "fr": "Lulue"
+    },
+    "birthYear": 1934,
+    "birthPlace": "Souk-Ahras",
+    "generation": 4,
+    "fatherId": "joseph-sebi",
+    "motherId": "lydia-guez",
+    "bio": {
+      "es": "Su nombre hebreo, Semha, era el de su abuela Lucie. Maestra, casada con André, también maestro. Se quedaron en Argelia después de 1962 y en 1965 obtuvieron plaza en Costa de Marfil. Cobraba en francos CFA, que valían el doble que el franco francés, y desde finales de 1966 empezó a enviar dinero a sus padres cada mes. Ese dinero es lo que los mantuvo a flote. Se lo devolvieron íntegro en 1990. Murió el 17 de diciembre de 2020.",
+      "fr": "Son nom hébreu, Semha, était celui de sa grand-mère Lucie. Institutrice, mariée à André, instituteur lui aussi. Ils restèrent en Algérie après 1962 et obtinrent en 1965 un poste en Côte d'Ivoire. Elle était payée en francs CFA, qui valaient le double du franc français, et à partir de la fin de 1966 elle envoya chaque mois de l'argent à ses parents. C'est cet argent qui les maintint à flot. Il lui fut intégralement remboursé en 1990. Elle est morte le 17 décembre 2020."
+    },
+    "deathYear": 2020
+  },
+  {
+    "id": "mounette-sebi",
+    "fullName": "Murrielle Sebi",
+    "nickname": {
+      "es": "Mounette",
+      "fr": "Mounette"
+    },
+    "birthYear": 1944,
+    "deathYear": 1997,
+    "birthPlace": "Souk-Ahras",
+    "generation": 4,
+    "fatherId": "joseph-sebi",
+    "motherId": "lydia-guez",
+    "bio": {
+      "es": "Estudió en Bône porque en Souk-Ahras no había liceo. Nunca se adaptó a Francia: en 1965 volvió a Argelia como maestra en una escuela primaria de Bône, y allí conoció a su marido. Fue ella quien acompañó a su padre al aeródromo el día que dejó Argelia para siempre, y quien le hizo la última fotografía. Eric la perdió.",
+      "fr": "Elle étudia à Bône parce qu'à Souk-Ahras il n'y avait pas de lycée. Elle ne s'adapta jamais à la France : en 1965 elle retourna en Algérie comme institutrice dans une école primaire de Bône, et c'est là qu'elle connut son futur mari. C'est elle qui accompagna son père à l'aérodrome le jour où il quitta l'Algérie pour toujours, et qui lui fit la dernière photo. Eric l'a perdue."
+    },
+    "photo": "/fotos/mounette.jpg",
+    "photoCaption": {
+      "es": "Detalle de una fotografía de su clase. Estaba sentada en el extremo izquierdo de la primera fila.",
+      "fr": "Détail d'une photographie de sa classe. Elle était assise à l'extrémité gauche du premier rang."
+    }
+  },
+  {
+    "id": "eric-sebi",
+    "fullName": "Eric Sebi Güez",
+    "birthYear": 1948,
+    "birthPlace": "Souk-Ahras",
+    "role": {
+      "es": "Autor del relato",
+      "fr": "Auteur du récit"
+    },
+    "generation": 4,
+    "fatherId": "joseph-sebi",
+    "motherId": "lydia-guez",
+    "photo": "/fotos/eric-retrato.jpg",
+    "bio": {
+      "es": "Tenía trece años cuando la familia salió de Argelia. Recuerda que al oír su acento los taxis no querían llevarlos, y que en el colegio de Chalon eran los únicos que venían de allá. Se casó en Valencia en 1973 y obtuvo la nacionalidad española en 1988. Desde 2018 ha contado la historia de la familia a su sobrina Liliane y a su sobrino Pierre, en decenas de mensajes escritos en francés: son la fuente de todo lo que se lee aquí.",
+      "fr": "Il avait treize ans quand la famille quitta l'Algérie. Il se souvient qu'en entendant leur accent les taxis ne voulaient pas les prendre, et qu'au collège de Chalon ils étaient les seuls à venir de là-bas. Il se maria à Valence en 1973 et obtint la nationalité espagnole en 1988. Depuis 2018 il a raconté l'histoire de la famille à sa nièce Liliane et à son neveu Pierre, dans des dizaines de messages écrits en français : ils sont la source de tout ce qu'on lit ici."
+    },
+    "photoCaption": {
+      "es": "Detalle de un retrato con María José.",
+      "fr": "Détail d'un portrait avec María José."
+    }
+  },
+  {
+    "id": "patoche-sebi",
+    "fullName": "Patricia Sebi",
+    "nickname": {
+      "es": "Patoche",
+      "fr": "Patoche"
+    },
+    "birthYear": 1951,
+    "birthPlace": "Souk-Ahras",
+    "generation": 4,
+    "fatherId": "joseph-sebi",
+    "motherId": "lydia-guez",
+    "bio": {
+      "es": "La pequeña. Su nacimiento estuvo a punto de costarle la vida a su madre. Paradójicamente fue la única de los hermanos con buena salud de niña: Eric no recuerda haberla visto nunca con fiebre. Tenía once años en julio de 1962.",
+      "fr": "La petite dernière. Sa naissance faillit coûter la vie à sa mère. Curieusement, de tous les frères et sœurs, c'est elle qui eut toujours une bonne santé étant enfant : Eric ne se souvient pas de l'avoir jamais vue fiévreuse. Elle avait onze ans en juillet 1962."
+    }
+  },
+  {
+    "id": "maria-josefa-saura",
+    "fullName": "María Josefa Saura Monserrat",
+    "birthYear": 1947,
+    "birthPlace": "Valencia",
+    "generation": 4,
+    "bio": {
+      "es": "Médica. Se casó con Eric en el Registro Civil de Valencia el 28 de octubre de 1973. Cómo se conocieron —una familia alicantina que pasó por Argentina, una casa en Toulouse a dos calles de la suya, un verano en Cullera— es un capítulo que aún está por escribir.",
+      "fr": "Médecin. Elle épousa Eric à l'état civil de Valence le 28 octobre 1973. Comment ils se sont connus — une famille d'Alicante passée par l'Argentine, une maison à Toulouse à deux rues de la leur, un été à Cullera — est un chapitre qui reste à écrire."
+    },
+    "photo": "/fotos/maria-jose.jpg",
+    "photoCaption": {
+      "es": "Detalle de un retrato con Eric.",
+      "fr": "Détail d'un portrait avec Eric."
+    },
+    "branch": "valenciana"
+  },
+  {
+    "id": "paul-sebi",
+    "fullName": "Paul Emmanuel Sebi Saura",
+    "birthYear": 1974,
+    "birthPlace": "Valencia",
+    "generation": 5,
+    "fatherId": "eric-sebi",
+    "motherId": "maria-josefa-saura",
+    "bio": {
+      "es": "Nacido el 24 de marzo de 1974.",
+      "fr": "Né le 24 mars 1974."
+    }
+  },
+  {
+    "id": "michelle-sebi",
+    "fullName": "Michelle Sebi Saura",
+    "birthYear": 1983,
+    "birthPlace": "Alzira",
+    "generation": 5,
+    "fatherId": "eric-sebi",
+    "motherId": "maria-josefa-saura",
+    "bio": {
+      "es": "Nacida el 6 de agosto de 1983. Ha reunido este archivo y ha hecho esta web.",
+      "fr": "Née le 6 août 1983. Elle a rassemblé ces archives et fait ce site."
+    }
+  },
+  {
+    "id": "liliane",
+    "fullName": "Liliane",
+    "generation": 5,
+    "motherId": "patoche-sebi",
+    "role": {
+      "es": "Sobrina de Eric",
+      "fr": "Nièce d’Eric"
+    },
+    "bio": {
+      "es": "Hija de Patricia y Alain. En noviembre de 2018 preguntó a su tío Eric por la historia de la familia, y él empezó a contársela en una serie de mensajes escritos en francés. Tiene un hijo, Nathan.",
+      "fr": "Fille de Patricia et Alain. En novembre 2018 elle demanda à son oncle Eric l'histoire de la famille, et il commença à la lui raconter dans une série de messages écrits en français. Elle a un fils, Nathan."
+    },
+    "fatherId": "alain"
+  },
+  {
+    "id": "karine",
+    "fullName": "Karine",
+    "generation": 5,
+    "motherId": "patoche-sebi",
+    "bio": {
+      "es": "Hija de Patricia y Alain, hermana de Liliane. Tiene una hija, Alix, con Samuel.",
+      "fr": "Fille de Patricia et Alain, sœur de Liliane. Elle a une fille, Alix, avec Samuel."
+    },
+    "fatherId": "alain"
+  },
+  {
+    "id": "samuel",
+    "fullName": "Samuel",
+    "generation": 5,
+    "bio": {
+      "es": "Padre de Alix.",
+      "fr": "Père d'Alix."
+    }
+  },
+  {
+    "id": "mireia-V.",
+    "fullName": "Mireia V.",
+    "generation": 5,
+    "bio": {
+      "es": "Casada con Paul. Madre de Arnau y de Marta.",
+      "fr": "Mariée à Paul. Mère d'Arnau et de Marta."
+    }
+  },
+  {
+    "id": "rafa-S.",
+    "fullName": "Rafa S.",
+    "generation": 5,
+    "bio": {
+      "es": "Casado con Michelle desde 2015. Padre de Elia.",
+      "fr": "Marié à Michelle depuis 2015. Père d'Elia."
+    }
+  },
+  {
+    "id": "nathan",
+    "fullName": "Nathan",
+    "birthYear": 2010,
+    "generation": 6,
+    "motherId": "liliane",
+    "bio": {
+      "es": "Hijo de Liliane y Christophe.",
+      "fr": "Fils de Liliane et Christophe."
+    },
+    "fatherId": "christophe"
+  },
+  {
+    "id": "alix",
+    "fullName": "Alix",
+    "birthYear": 2014,
+    "generation": 6,
+    "motherId": "karine",
+    "fatherId": "samuel",
+    "bio": {
+      "es": "Hija de Karine y Samuel.",
+      "fr": "Fille de Karine et Samuel."
+    }
+  },
+  {
+    "id": "arnau",
+    "fullName": "Arnau Sebi V.",
+    "birthYear": 2009,
+    "generation": 6,
+    "fatherId": "paul-sebi",
+    "motherId": "mireia-V.",
+    "bio": {
+      "es": "Hijo de Paul y Mireia.",
+      "fr": "Fils de Paul et Mireia."
+    }
+  },
+  {
+    "id": "marta",
+    "fullName": "Marta Sebi V.",
+    "birthYear": 2011,
+    "generation": 6,
+    "fatherId": "paul-sebi",
+    "motherId": "mireia-V.",
+    "bio": {
+      "es": "Hija de Paul y Mireia.",
+      "fr": "Fille de Paul et Mireia."
+    }
+  },
+  {
+    "id": "elia",
+    "fullName": "Elia Sebi S.",
+    "birthYear": 2018,
+    "generation": 6,
+    "fatherId": "rafa-S.",
+    "motherId": "michelle-sebi",
+    "bio": {
+      "es": "Hija de Michelle y Rafa. La sexta generación desde Achir Sebi.",
+      "fr": "Fille de Michelle et Rafa. La sixième génération depuis Achir Sebi."
+    }
+  },
+  {
+    "id": "alain",
+    "fullName": "Alain",
+    "generation": 4,
+    "bio": {
+      "es": "Padre de Liliane y de Karine.",
+      "fr": "Père de Liliane et de Karine."
+    },
+    "branch": "consortes"
+  },
+  {
+    "id": "christophe",
+    "fullName": "Christophe",
+    "generation": 5,
+    "bio": {
+      "es": "Padre de Nathan.",
+      "fr": "Père de Nathan."
+    }
+  },
+  {
+    "id": "georges-tibi",
+    "fullName": "Georges Tibi",
+    "generation": 4,
+    "role": {
+      "es": "Marido de Nono",
+      "fr": "Mari de Nono"
+    },
+    "bio": {
+      "es": "Médico, casado con Nono. Vivían en Bône, con la consulta en el bajo del mismo edificio. En 1961 anunció a sus suegros que se marchaba a Francia a comprar una consulta; Eric recuerda la respuesta de su padre: «¿Qué dices? ¿Has perdido la cabeza? Francia no abandonará nunca Argelia». Compró una consulta en Nolay, en Borgoña, y se instalaron allí un año antes que los demás.",
+      "fr": "Médecin, marié à Nono. Ils vivaient à Bône, le cabinet au rez-de-chaussée du même immeuble. En 1961 il annonça à ses beaux-parents qu'il partait en France acheter une consultation ; Eric se souvient de la réponse de son père : « Mais que dis-tu ? Tu as perdu la tête ??? La France n'abandonnera jamais l'Algérie… » Il acheta une consultation à Nolay, en Bourgogne, et ils s'y installèrent un an avant les autres."
+    },
+    "branch": "consortes"
+  },
+  {
+    "id": "frederique",
+    "fullName": "Frédérique",
+    "generation": 5,
+    "fatherId": "georges-tibi",
+    "motherId": "jacqueline-sebi",
+    "bio": {
+      "es": "Hija de Nono y Georges Tibi. Aparece en la fotografía de la escalera, la que circula animada.",
+      "fr": "Fille de Nono et Georges Tibi. Elle apparaît sur la photographie de l'escalier, celle qui circule animée."
+    }
+  },
+  {
+    "id": "pierre",
+    "fullName": "Pierre",
+    "nickname": {
+      "es": "Pierrot",
+      "fr": "Pierrot"
+    },
+    "generation": 5,
+    "fatherId": "georges-tibi",
+    "motherId": "jacqueline-sebi",
+    "role": {
+      "es": "Hijo de Nono",
+      "fr": "Fils de Nono"
+    },
+    "bio": {
+      "es": "Hijo de Nono y Georges Tibi. Es el destinatario de una parte de las cartas de Eric, las que empiezan «À bientôt Pierrot». Hacia 2016 hizo traducir la única carta que quedaba de las llegadas de Rusia, fechada el 3 de octubre de 1894, y así apareció el apellido Reykin.",
+      "fr": "Fils de Nono et Georges Tibi. Il est le destinataire d'une partie des lettres d'Eric, celles qui commencent « À bientôt Pierrot ». Vers 2016 il fit traduire la seule lettre restante de celles venues de Russie, datée du 3 octobre 1894 : c'est ainsi qu'apparut le nom Reykin."
+    }
+  },
+  {
+    "id": "josephe",
+    "fullName": "Josephe",
+    "generation": 5,
+    "fatherId": "georges-tibi",
+    "motherId": "jacqueline-sebi",
+    "bio": {
+      "es": "Hija de Nono y Georges Tibi.",
+      "fr": "Fille de Nono et Georges Tibi."
+    }
+  },
+  {
+    "id": "andre",
+    "fullName": "André",
+    "generation": 4,
+    "bio": {
+      "es": "Maestro, casado con Lulue. Se quedaron en Argelia después de 1962, en el piso vacío de Nono en Bône. Tras la explosión del puerto en 1964 decidieron marcharse, y en 1965 obtuvieron plaza de maestros en Costa de Marfil.",
+      "fr": "Instituteur, marié à Lulue. Ils restèrent en Algérie après 1962, dans l'appartement vide de Nono à Bône. Après l'explosion du port en 1964 ils décidèrent de partir, et en 1965 ils obtinrent un poste d'instituteurs en Côte d'Ivoire."
+    },
+    "branch": "consortes"
+  },
+  {
+    "id": "jean",
+    "fullName": "Jean",
+    "generation": 5,
+    "fatherId": "andre",
+    "motherId": "lucette-sebi",
+    "bio": {
+      "es": "Hijo de Lulue y André.",
+      "fr": "Fils de Lulue et André."
+    }
+  },
+  {
+    "id": "max",
+    "fullName": "Max",
+    "generation": 4,
+    "bio": {
+      "es": "Casado con Mounette. Se conocieron en Argelia: ella no se adaptaba a Francia y en 1965 volvió a Bône como maestra en una escuela primaria.",
+      "fr": "Marié à Mounette. Ils se connurent en Algérie : elle ne s'adaptait pas à la France et en 1965 elle retourna à Bône comme institutrice dans une école primaire."
+    },
+    "branch": "consortes"
+  },
+  {
+    "id": "anne-france",
+    "fullName": "Anne-France",
+    "generation": 5,
+    "fatherId": "max",
+    "motherId": "mounette-sebi",
+    "bio": {
+      "es": "Hija de Mounette y Max.",
+      "fr": "Fille de Mounette et Max."
+    }
+  },
+  {
+    "id": "gabriel-sebi",
+    "fullName": "Gabriel Sebi",
+    "nickname": {
+      "es": "Gaby",
+      "fr": "Gaby"
+    },
+    "birthYear": 1912,
+    "deathYear": 2000,
+    "birthPlace": "Guelma",
+    "generation": 2,
+    "fatherId": "achir-sebi",
+    "motherId": "zmirda-zarade",
+    "bio": {
+      "es": "El menor de los hermanos, nacido el 17 de febrero de 1912, cuando su madre tenía cuarenta años y su padre sesenta. Con él se completan los diez hijos conocidos por su nombre: dos murieron de bebés y quedan los ocho supervivientes de los que hablaba Eric.",
+      "fr": "Le dernier des frères et sœurs, né le 17 février 1912, quand sa mère avait quarante ans et son père soixante. Avec lui se complètent les dix enfants connus par leur nom : deux moururent nourrissons, et restent les huit survivants dont parlait Eric."
+    }
+  }
+]

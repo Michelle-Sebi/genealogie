@@ -1,0 +1,216 @@
+[
+  {
+    "id": "ana",
+    "decade": 1890,
+    "type": "photo",
+    "url": "/fotos/ana-coloreada.jpg",
+    "caption": {
+      "es": "Ana, la hija que se quedó en Ucrania",
+      "fr": "Ana, la fille restée en Ukraine"
+    },
+    "detail": {
+      "es": "La única imagen del lado de la familia que no salió de Rusia. Los alemanes la asesinaron en 1942.",
+      "fr": "La seule image du côté de la famille qui n'est pas sorti de Russie. Les Allemands l'assassinèrent en 1942."
+    },
+    "retouched": {
+      "es": "Coloreada con IA. El original es en blanco y negro: el color del pelo y de los ojos lo ha decidido un algoritmo, no es un dato.",
+      "fr": "Colorisée par IA. L'original est en noir et blanc : la couleur des cheveux et des yeux a été décidée par un algorithme, ce n'est pas une donnée."
+    }
+  },
+  {
+    "id": "achir-retrato",
+    "decade": 1920,
+    "type": "photo",
+    "url": "/fotos/achir-sebi.jpg",
+    "caption": {
+      "es": "Achir Sebi",
+      "fr": "Achir Sebi"
+    },
+    "detail": {
+      "es": "La única fotografía que existe del hombre que empezó esta historia. Llegó a Argelia en 1885 sin dinero, enfermo y sin hablar francés; aquí es un anciano de barba blanca en Guelma, donde fue rabino y donde murió en 1924.",
+      "fr": "La seule photographie qui existe de l'homme par qui cette histoire a commencé. Il arriva en Algérie en 1885 sans argent, malade et sans parler français ; ici c'est un vieil homme à la barbe blanche à Guelma, où il fut rabbin et où il mourut en 1924."
+    }
+  },
+  {
+    "id": "lucie-jacques",
+    "decade": 1920,
+    "type": "photo",
+    "url": "/fotos/lucie-jacques.jpg",
+    "caption": {
+      "es": "Lucie y Jacques",
+      "fr": "Lucie et Jacques"
+    },
+    "detail": {
+      "es": "Retrato de estudio. Se casaron en Bône el 27 de febrero de 1922, ella en segundas nupcias tras enviudar de Abraham Güez. La fecha de la fotografía no consta; por la edad que aparentan podría ser de aquellos años. Al pie de la cartulina hay un sello en seco del estudio, ya ilegible.",
+      "fr": "Portrait de studio. Ils se marièrent à Bône le 27 février 1922, elle en secondes noces après son veuvage d'Abraham Güez. La date de la photographie n'est pas établie ; à en juger par leur âge, elle pourrait être de ces années-là. Au bas du carton un cachet à sec du studio, désormais illisible."
+    }
+  },
+  {
+    "id": "boda-1930",
+    "decade": 1930,
+    "type": "photo",
+    "url": "/fotos/boda-1930.jpg",
+    "caption": {
+      "es": "Joseph y Lydia el día de su boda",
+      "fr": "Joseph et Lydia le jour de leur mariage"
+    },
+    "detail": {
+      "es": "24 de marzo de 1930. Estudio de J. Mikaleff, Souk-Ahras — un apellido maltés, como tantos en aquella ciudad.",
+      "fr": "24 mars 1930. Studio J. Mikaleff, Souk-Ahras — un nom maltais, comme tant d'autres dans cette ville."
+    }
+  },
+  {
+    "id": "clase-ninas",
+    "decade": 1950,
+    "type": "photo",
+    "url": "/fotos/clase-ninas.jpg",
+    "caption": {
+      "es": "Una clase de niñas en Souk-Ahras",
+      "fr": "Une classe de filles à Souk-Ahras"
+    },
+    "detail": {
+      "es": "En la fila de abajo, la quinta empezando por la izquierda es Mounette: Murrielle Sebi, hija de Joseph y Lydia.",
+      "fr": "Au dernier rang, la cinquième en partant de la gauche est Mounette : Murrielle Sebi, fille de Joseph et Lydia."
+    }
+  },
+  {
+    "id": "clase-1950",
+    "decade": 1950,
+    "type": "photo",
+    "url": "/fotos/clase-1950.jpg",
+    "caption": {
+      "es": "Escuela de Souk-Ahras, 1950",
+      "fr": "École de Souk-Ahras, 1950"
+    },
+    "detail": {
+      "es": "La pizarra que sostiene uno de los niños lleva escrito «Souk-Ahras 1950». En la fila del medio, la de las niñas, la cuarta empezando por la izquierda es Mounette, que entonces tenía seis años.",
+      "fr": "L'ardoise que tient l'un des enfants porte l'inscription « Souk-Ahras 1950 ». Au rang du milieu, celui des filles, la quatrième en partant de la gauche est Mounette, qui avait alors six ans."
+    }
+  },
+  {
+    "id": "clase-apellidos",
+    "decade": 1950,
+    "type": "photo",
+    "url": "/fotos/clase-souk-ahras.jpg",
+    "caption": {
+      "es": "La clase de Eric, con los apellidos escritos",
+      "fr": "La classe d'Eric, avec les noms inscrits"
+    },
+    "detail": {
+      "es": "Gafory, Antona, Migliaccio, Chartre, Delubac, Amri, Trupiano, Dumouriez, Micallef, Zanher, Bourget, Caleja… y Sebi. Italianos, españoles, malteses, un árabe y un ruso en la misma fila. Es la mejor ilustración de lo que Eric contaba: «si echas un vistazo a la lista de abonados al teléfono de Souk-Ahras en 1962, verás que la mayoría son nombres italianos, españoles, malteses».",
+      "fr": "Gafory, Antona, Migliaccio, Chartre, Delubac, Amri, Trupiano, Dumouriez, Micallef, Zanher, Bourget, Caleja… et Sebi. Des Italiens, des Espagnols, des Maltais, un Arabe et un Russe sur le même rang. C'est la meilleure illustration de ce que racontait Eric : « Si tu jettes un coup d'œil sur la liste des abonnés au téléphone de Souk-Ahras en 1962 tu verras que la plupart sont des noms italien, espagnol, maltais. »"
+    }
+  },
+  {
+    "id": "eric-nino",
+    "decade": 1950,
+    "type": "photo",
+    "url": "/fotos/eric-nino.jpg",
+    "caption": {
+      "es": "Eric, en la casa de Souk-Ahras",
+      "fr": "Eric, dans la maison de Souk-Ahras"
+    },
+    "detail": {
+      "es": "El suelo de baldosa de la casa que sus padres construyeron sobre la antigua oficina de correos.",
+      "fr": "Le carrelage de la maison que ses parents construisirent sur l'ancien bureau de poste."
+    }
+  },
+  {
+    "id": "nuestra-familia",
+    "decade": 1950,
+    "type": "photo",
+    "url": "/fotos/nuestra-familia.jpg",
+    "caption": {
+      "es": "Nuestra familia",
+      "fr": "Notre famille"
+    },
+    "detail": {
+      "es": "De izquierda a derecha, según escribió Eric: mi padre, mi madre, yo, Mounette, Nono, Suzanne (mi tía) y su marido Marcel.",
+      "fr": "De gauche à droite, comme l'a écrit Eric : mon père, ma mère, moi, Mounette, Nono, Suzanne (ma tante) et son mari Marcel."
+    }
+  },
+  {
+    "id": "figuras",
+    "decade": 1950,
+    "type": "photo",
+    "url": "/fotos/figuras-centrales.jpg",
+    "caption": {
+      "es": "En el camino",
+      "fr": "Sur le chemin"
+    },
+    "detail": {
+      "es": "Lydia, Eric, Nono y Joseph, entre otros.",
+      "fr": "Lydia, Eric, Nono et Joseph, entre autres."
+    }
+  },
+  {
+    "id": "jacqueline",
+    "decade": 1950,
+    "type": "photo",
+    "url": "/fotos/jacqueline.jpg",
+    "caption": {
+      "es": "Jacqueline, «Nono»",
+      "fr": "Jacqueline, « Nono »"
+    }
+  },
+  {
+    "id": "ninos-boda",
+    "decade": 1950,
+    "type": "photo",
+    "url": "/fotos/ninos-boda.jpg",
+    "caption": {
+      "es": "Niños de boda",
+      "fr": "Enfants d'honneur"
+    },
+    "detail": {
+      "es": "Eric guardaba esta fotografía junto al retrato de su hermana, bajo el mismo título: «Mi hermana Jacqueline». Es probable que una de las dos niñas sea ella, pero no está confirmado.",
+      "fr": "Eric conservait cette photographie avec le portrait de sa sœur, sous le même titre : « Ma sœur Jacqueline ». Il est probable que l'une des deux petites filles soit elle, mais ce n'est pas confirmé."
+    }
+  },
+  {
+    "id": "clase-mounette",
+    "decade": 1960,
+    "type": "photo",
+    "url": "/fotos/clase-mounette.jpg",
+    "caption": {
+      "es": "La clase de Mounette",
+      "fr": "La classe de Mounette"
+    },
+    "detail": {
+      "es": "Mounette es la tercera empezando por la izquierda de la fila sentada. No sabemos el año ni el centro: por su edad debe de rondar 1960, y podría ser el liceo de Bône, donde estudió porque en Souk-Ahras no había.",
+      "fr": "Mounette est la troisième en partant de la gauche au rang assis. Nous ne savons ni l'année ni l'établissement : d'après son âge cela doit tourner autour de 1960, et ce pourrait être le lycée de Bône, où elle étudia parce qu'à Souk-Ahras il n'y en avait pas."
+    }
+  },
+  {
+    "id": "balcon",
+    "decade": 1960,
+    "type": "photo",
+    "url": "/fotos/balcon.jpg",
+    "caption": {
+      "es": "La escalera",
+      "fr": "L'escalier"
+    },
+    "detail": {
+      "es": "Dos niñas y tres mujeres asomadas. Eric identifica a Frédérique, Patoche, Mounette, Lucie, la madre de André y Nono — pero todavía no sabemos quién es quién, ni dónde se tomó.",
+      "fr": "Deux petites filles et trois femmes penchées. Eric identifie Frédérique, Patoche, Mounette, Lucie, la mère d'André et Nono — mais nous ne savons pas encore qui est qui, ni où la photo a été prise."
+    },
+    "retouched": {
+      "es": "Esta imagen circula como vídeo: es una fotografía fija animada con IA. No existe ninguna película.",
+      "fr": "Cette image circule sous forme de vidéo : c'est une photographie fixe animée par IA. Aucun film n'existe."
+    }
+  },
+  {
+    "id": "maison-sebi",
+    "decade": 1960,
+    "type": "photo",
+    "url": "/fotos/maison-sebi.jpg",
+    "caption": {
+      "es": "Maison Sebi, rue Victor Hugo",
+      "fr": "Maison Sebi, rue Victor Hugo"
+    },
+    "detail": {
+      "es": "La tienda de novedades, lencería y géneros de punto que los dos hermanos llevaron durante cuarenta años en la calle principal de Souk-Ahras.",
+      "fr": "Le commerce de la nouveauté, lingerie et bonneterie que les deux frères tinrent pendant quarante ans dans la rue principale de Souk-Ahras."
+    }
+  }
+]
