@@ -1,0 +1,57 @@
+name: Desplegar
+
+# Cada push a main compila el sitio y lo sincroniza con el servidor.
+# También se puede lanzar a mano desde la pestaña Actions.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Si se encadenan varios push, que no se pisen dos despliegues a la vez.
+concurrency:
+  group: despliegue
+  cancel-in-progress: true
+
+jobs:
+  desplegar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      # npm ci exige que package-lock.json cuadre: si falla aquí, el lockfile
+      # está tocado. Es lo que pasó al abreviar los apellidos.
+      - name: Instalar dependencias
+        run: npm ci
+
+      # Con output: "export" esto deja el sitio entero en out/.
+      - name: Compilar
+        run: npm run build
+
+      - name: Comprobar que el export salió bien
+        run: |
+          test -f out/es/index.html || { echo "Falta out/es/index.html"; exit 1; }
+          test -f out/fr/index.html || { echo "Falta out/fr/index.html"; exit 1; }
+          test -f out/.htaccess     || { echo "Falta out/.htaccess";     exit 1; }
+          echo "Export correcto: $(du -sh out | cut -f1)"
+
+      - name: Preparar la clave SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -p "${{ secrets.SSH_PORT }}" -H "${{ secrets.SSH_HOST }}" >> ~/.ssh/known_hosts 2>/dev/null
+
+      # --delete borra del servidor lo que ya no está en out/, para que no
+      # queden fotos ni chunks viejos. El .htpasswd va FUERA de httpdocs; el
+      # exclude es solo una red por si alguna vez acaba dentro.
+      - name: Sincronizar con el servidor
+        run: |
+          rsync -az --delete \
+            --exclude '.htpasswd' \
+            -e "ssh -p ${{ secrets.SSH_PORT }} -i ~/.ssh/id_ed25519" \
+            out/ "${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_DEST }}"
