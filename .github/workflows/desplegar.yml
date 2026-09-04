@@ -41,10 +41,32 @@ jobs:
 
       - name: Preparar la clave SSH
         run: |
-          mkdir -p ~/.ssh
-          echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_ed25519
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          # printf y no echo: si el secreto no acaba en salto de línea,
+          # OpenSSH rechaza la clave por formato inválido.
+          printf '%s\n' "${{ secrets.SSH_KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
+
+          # Que la clave sea legible y privada. Si esto falla, el secreto está
+          # mal pegado o es la pública en vez de la privada.
+          if ! ssh-keygen -y -f ~/.ssh/id_ed25519 > ~/.ssh/id_ed25519.pub 2>/tmp/err; then
+            echo "La clave privada de SSH_KEY no es válida:"
+            cat /tmp/err
+            exit 1
+          fi
+          echo "Huella de la clave: $(ssh-keygen -lf ~/.ssh/id_ed25519.pub)"
+          echo "Esta línea debe estar en authorized_keys del servidor:"
+          cat ~/.ssh/id_ed25519.pub
+
           ssh-keyscan -p "${{ secrets.SSH_PORT }}" -H "${{ secrets.SSH_HOST }}" >> ~/.ssh/known_hosts 2>/dev/null
+
+      # BatchMode evita que caiga en pedir contraseña y esconda el error real.
+      - name: Probar la conexión
+        run: |
+          ssh -o BatchMode=yes -o IdentitiesOnly=yes \
+              -i ~/.ssh/id_ed25519 -p "${{ secrets.SSH_PORT }}" \
+              "${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}" \
+              'echo "Conectado como $(id -un) en $(hostname)"; pwd; ls -la'
 
       # --delete borra del servidor lo que ya no está en out/, para que no
       # queden fotos ni chunks viejos. El .htpasswd va FUERA de httpdocs; el
@@ -53,5 +75,5 @@ jobs:
         run: |
           rsync -az --delete \
             --exclude '.htpasswd' \
-            -e "ssh -p ${{ secrets.SSH_PORT }} -i ~/.ssh/id_ed25519" \
+            -e "ssh -o BatchMode=yes -o IdentitiesOnly=yes -p ${{ secrets.SSH_PORT }} -i ~/.ssh/id_ed25519" \
             out/ "${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SSH_DEST }}"
