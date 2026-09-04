@@ -1,17 +1,13 @@
 # Configuración de Apache para el sitio publicado.
 #
 # Next lo copia tal cual de public/ a out/ al compilar con output: "export",
-# así que se despliega solo. No contiene credenciales: las contraseñas viven
-# en .htpasswd, que va FUERA de httpdocs y NUNCA en este repositorio.
+# así que se despliega solo. No contiene ni debe contener credenciales.
 
 # --- Acceso restringido -----------------------------------------------------
-# El sitio contiene documentos personales y fotografías de personas vivas.
-# Ajusta la ruta de AuthUserFile a la de tu servidor: es absoluta y Apache no
-# arranca el directorio si no la encuentra.
-AuthType Basic
-AuthName "Archivo familiar Sebi"
-AuthUserFile /var/www/vhosts/TU-DOMINIO/.htpasswd
-Require valid-user
+# Aquí no hay nada: el sitio se protege con la protección por contraseña de
+# Plesk, que actúa en nginx y por tanto cubre también las fotos y el
+# JavaScript. Un AuthUserFile en este fichero sería redundante, y si apuntara
+# a una ruta inexistente Apache devolvería un 500 en todo el directorio.
 
 # --- Rutas ------------------------------------------------------------------
 RewriteEngine On
